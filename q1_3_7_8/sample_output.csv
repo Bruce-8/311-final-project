@@ -1,0 +1,2085 @@
+id,Q2: How many ingredients would you expect this food item to contain?,Q4: How much would you expect to pay for one serving of this food item?,Q5: What movie do you think of when thinking of this food item?,Q6: What drink would you pair with this food item?,Label,"Q1: From a scale 1 to 5, how complex is it to make this food? (Where 1 is the most simple, and 5 is the most complex)_1","Q1: From a scale 1 to 5, how complex is it to make this food? (Where 1 is the most simple, and 5 is the most complex)_2","Q1: From a scale 1 to 5, how complex is it to make this food? (Where 1 is the most simple, and 5 is the most complex)_3","Q1: From a scale 1 to 5, how complex is it to make this food? (Where 1 is the most simple, and 5 is the most complex)_4","Q1: From a scale 1 to 5, how complex is it to make this food? (Where 1 is the most simple, and 5 is the most complex)_5",Q8: How much hot sauce would you add to this food item?_A little (mild),Q8: How much hot sauce would you add to this food item?_A lot (hot),Q8: How much hot sauce would you add to this food item?_A moderate amount (medium),Q8: How much hot sauce would you add to this food item?_I will have some of this food item with my hot sauce,At a party,Late night snack,Week day dinner,Week day lunch,Weekend dinner,Weekend lunch,Friends,Parents,Siblings,Strangers,Teachers
+716549,6,5,Cloudy with a Chance of Meatballs,Coke ,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0
+715742,"bread, meet",5$ for a large piece,All sort of american young boy movies,Coke,Pizza,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1,1
+727333,5,10dollar,action movie,cola,Pizza,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+606874,6-7,$3 ,Mamma Mia,Soda,Pizza,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0,1,0,1
+505318,3 or more,$5 ,Cloudy with a chance of meatballs,Soda,Pizza,0,1,0,0,0,1,0,0,0,1,0,1,1,1,1,1,0,1,0,0
+605771,6,$15 ,,Soda,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+606929,about 3 or 4,1,dragon,coke ,Pizza,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+609789,4-5,20 dollar,Rick and Morty,coke,Pizza,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+644623,5,3 dollars,Home Alone,Coca Cola,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0
+626792,9,4,Cloudy with a chance of meatballs,Coke,Pizza,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0
+714863,10,20,none,regular coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+602805,6,12 Canadian Dollars,The Big Lebowski,Ice Tea,Pizza,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+602526,4,$6 ,Spider Man 2,lemonade,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+497421,"I think at least 4 ingredients, such as flour, tomato, cheese, and oil.",At most 30 CAD,Cloudy with a Chance of Meatballs ,Coke,Pizza,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0
+389328,8,$10 ,Goodfellas,Red Wine,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,1,0,0
+289931,"5: Cheese, sauce, dough, meet, vegetables","One serving being two slices, I would expect to pay around $7",A Goofy Movie (the disney movie),Pop like Coke ,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,0,1,1,1,0,0,0,0
+620148,7,5,Dead Silence,Sprite,Pizza,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0
+387155,6,12,la la land,water,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,0
+516975,"21 (6 for the dough, 15 for the toppings)","$2 - $3
+
+ ",Harry Potter & The Philosopher's Stone,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+630825,6,8 dollar,Transformer,Soup,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0
+614043,10,15,Ninja turtles ,Coke,Pizza,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0
+521125,5,$3.00 ,High School Musical 3,Root beer,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,1
+627780,5,$8 ,Despicable Me,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,1
+492744,10,10,Teenage Mutant Ninja Turtles,Soda,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+618747,"Bread flour (or pizza dough), Olive oil, Sugar, Tomato, Chess, Pepperoni","If it's in a fast food pizza store, a single slice costs around $6, and a full pizza costs around $15. For a full wood-fired pizza in restaurant, it's around $25.",Toy Story,"Soft drinks. For example, 7up",Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+607815,6,30 CAD,The Godfather,Coke,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,0,1
+601609,10,6,Spiderman,Diet Coke,Pizza,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+602657,5,10,Pizza,cola,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,1
+616449,Three,$5 ,Teenage Mutant Ninja Turtles,Sparkling Water,Pizza,0,0,0,1,0,1,0,0,0,1,0,1,1,1,0,1,1,0,0,0
+501893,"5: Flour, tomatoes, cheese, meat and basil leaves",CAD20-25,Fast & Furious,Coke,Pizza,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0
+507448,"Mushrooms, meat, cheese, potato, pepper",20,Teenage Mutant Ninja Turtles,Coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0
+606556,3,8 dollars,The Garfield Movie,Cola,Pizza,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+724326,"10-12 (Flour, water, yeast, salt, olive oil for the dough, tomato sauce, cheese, pepperoni, veggies and herbs)",Around $3 for one slice ,"""Spider-Man: No Way Home""",Coca-Cola and iced tea,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0
+616945,5,15,ratatouille,coca cola,Pizza,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,0,0,0,0,1
+630962,4,10,Five Nights At Freddies,Coca Cola,Pizza,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,1
+715814,"6 ingredients (tomato sauce, dough, cheese, sausage, mushroom, pepper). Besides these ordinary ones, other ingredients like olives, pineapples, and onions, etc. are also interesting, but overall, the above 6 are the most important (7 as sometimes pineapple is preferred).","About 10 -13 CAD. Usually, it would be a good fit if the price is from 10.99 - 11.99 canadian dollars for a medium size one (that usually I can have for 2-3 meals).","Not exactly movies, but I would prefer to watch some TV series when I am having pizzas. If movies specifically, I may think of cartoon movies or more ""hero""/marvel related ones, like Teenage Mutant Ninja Turtles, movies in marvel series, etc..","All sorts of carbonated drinks(e.g. coca-cola, pepsi, mirinda series drinks, fanta series drinks etc.). Non carbonated drinks are not preferred when I am having pizzas.",Pizza,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,1,1,0,0,1
+502799,8,$10 ,Back to the future,Ice tea,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0
+605278,"minimum 4 (cheese, tomato sauce, flour, water)",$4 ,Godfather,Coke,Pizza,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,1,1
+388888,8,5,Mystic Pizza,Coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+519548,~5-6,$6 ,Spider man 2,Coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,1
+405521,3,4,futurama,coke,Pizza,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+607410,8,About $13.,Iron Man I,Orange Fanta,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,0,1
+715795,8,$13 ,Life of Pi,Hot chocolate,Pizza,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,1
+625326,5,$3 ,Avengers,Soda,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,0,1,0,1
+627220,3 to 7,6 to 7 dollars,Despicable Me,Mountain Dew,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,1,1,0,1,0,0,0,0
+634964,5,$20 ,Spider-man,Beer,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+722500,10,$15 ,Home Alone,coke,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,0,1,1,1,1,1,0,1
+602824,5,15 dollars,Any American movie,Soda,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+618355,5,15,king kong,coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,1,1
+611097,7,10,Home Alone,coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+634328,5,$5 ,Teenage Mutant Ninja Turtles ,Soda,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,0,0
+607160,10,"$15 for a whole pizza
+
+$3 for a slice",cloudy with a chance of meatballs,diet coke,Pizza,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+728522,6,12,Marvel Movies,Diet Pepsi,Pizza,0,0,1,0,0,0,1,0,0,1,1,1,0,1,0,1,0,1,0,1
+718570,5,15,,coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,1,0
+714598,5,4.5 cad,The Garfield Movie,Coca-cola,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,0,0,0,1,1,1,0,1
+601950,4,3 per slide,Garfield,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0
+612478,3,$7 ,Grown ups,Diet coke,Pizza,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0
+501416,Around 6-9 excluding condiments.,Around $7~15 before tax.,N/A (I don't watch a lot of movies),Carbonated soft drink,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,1
+629710,8,$15 ,deadpool,coke,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+502610,"There are 3 major ingredients the sauce the dough.crust and the cheese. then the addons ingredients can enhance it.
+
+So 4 in total",Around 30-40 $,Cloudy with a chance of meatball,Coca cola zero,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+603476,8,15,whiplash,coke,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+600957,10,$6 ,Home alone,Water,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,0,0
+713423,"Maybe about 15 ingredients: starch, egg, sugar, milk, yeast, cheese, salami, corn kernels, peas, mushroom, olive, green pepper, shrimp, tomato, and maybe pineapple (I know, some Italians will want to kill me).",CA$15,Inside Out,Coke,Pizza,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,1,1,1,0,1
+722431,"Around 4 to 6 key ingredients (counting only categories, not individual types of each category like different spices or toppings). ","Maybe 20$, for 14'' or 16''.",Teenage Mutant Ninja Turtles.,"Orange juice, my favourite.",Pizza,0,1,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0
+633234,6,$5 ,Avengers,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,1
+148179,5,7,,Cola,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+715845,9,$20 ,Cloudy with a Chance of Meatballs,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0
+632153,"Around 10 or so, depending on the flavour",At most $6,Ratatouille,Sparkling water,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+606552,6,"For one slice? Like 5 dollars.
+
+For a whole pizza? 15 dollars",Superbad,Coca Cola,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+738409,4,3,stranger things,pepsi,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+612096,6,4.99,Ratatouille,Sprite,Pizza,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,1
+743537,5,15 dollars,Pizza (2012),Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,1,0
+632896,"I expect this food item to contain 10 ingredients.
+
+ ",I would expect to pay 7 dollars for 1 serving. ,Home Alone,Coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,0,0,1,1,0,1,1,0
+605207,3,$12 ,Teenage Mutant Ninja Turtles,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+617542,"Varies depending on personal choice. Basic/Main ingredients can be around 3. Additional ingredients can be added, usually around 2-5. ",Depends on the portion served. A full size can be around $15-30 while a piece can be $3-6.,Ninja Turtles,Coke,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0
+719554,3,$5 ,,Juice,Pizza,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+627427,4,$5.00 ,Air Bud,Soda,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,0,1,1,0,0,1,0
+411315,7,6,Deadpool,coke,Pizza,0,0,0,1,0,1,0,0,0,1,1,0,1,0,0,1,0,0,1,0
+631507,8,5 dollars,A quiet place: day one (2024),Soda,Pizza,0,0,0,1,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0
+627798,8,$6 ,Finding Nemo,Coca Cola,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+712093,10,15$,Avengers Endgame,Coca Cola,Pizza,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,0,0,1,1
+627488,"yeast water flour egg salt (dough), cheese peporonni sausage other vegetables 
+
+total: 10",$5 ,Ratatouille,Soda,Pizza,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1,0,0,0,1
+626493,5,$6 ,My Cousin Vinny,San Pellegrino Sparkling Water,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1
+601363,"6-8 a simple pizza, can have many more ",$12-$18,Garfield,A Ginger Ale,Pizza,0,1,0,0,0,0,0,1,0,1,1,1,0,1,1,1,0,1,0,1
+712898,8,5,Garfield,Diet Coke,Pizza,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0
+603398,10,20 - 25 CAD,"Eat, Pray, Love",Coca-Cola,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0,1,0,0,0,0
+631012,7,5,Ratatouille,Coke,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+601848,6,$7 ,Ratatouille,Coke with lemon,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,1,1,1,0,1
+612131,5,$2 ,Home Alone,Coca-cola,Pizza,0,1,0,0,0,1,0,0,0,1,1,1,0,1,0,0,1,1,0,1
+408630,5,5 dollars,Five Nights at Freddy's,soda,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,1,0,1,1,0,1,0,1
+632091,5,15$ per pizza,No movie,A can of soda,Pizza,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1
+601122,7,15,Home Alone,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0
+602871,5,10 cad,Spider-Man 2,Coke,Pizza,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+520828,9,$5 ,Teenage Mutant Ninja Turtles,Diet Coke,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,1,0,0
+514199,7,4,,Nestea,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+389697,6,10,Comedy,Coke,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,1,0,0,0,1
+714430,10,10 dollars,iron man,orange juice,Pizza,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+612567,6,$20 ,Star Wars,Coca cola,Pizza,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,1,0,1,0,0
+744468,3,$3 ,Spider-Man,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+502722,Around 6 ingredients in a basic cheese pizza recipe,Around $2-4 for a slice of pizza is reasonable.,Any teenage mutant ninja turtle movie,Soft cola or lemon drink,Pizza,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+519681,10,5,The Dark Knight,Diet Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+631125,5,6,Home Alone 2: Lost in New York,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,0,0
+606119,"Flour, yeast, tomato sauce, cheese, pepperoni, (6-7?)",$5 ,Pulp fiction,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+627252,8,$6 ,Ninja Turtles,Water,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0
+616568,at least 3,20 dollars,fast and furious,soda,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+603838,5,10,Teenage Mutant Ninja Turtles,Soda,Pizza,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0
+719735,"1. Dough
+
+2. Sauce
+
+3. Cheese
+
+4. Your choice of protein
+
+5. Vegetables (optional)",$5 ,Spiderman 2,Coke,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+608062,10,$2.50 ,Spider man  ,Coca cola ,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1
+608704,3,$20 ,Home Alone,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1
+520383,This food item has a variable number of ingredients. It could contain as little as three but will often contain more and there is no upper limit.,"$3.50, but I'm not sure about this because people don't often buy only one serving",I don't think of a movie when thinking of this food item,Coke,Pizza,0,1,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0,1
+603793,4,15,Home Alone,soda,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,1,0
+603933,"Around 4-5, including dough, tomato sauce, cheese, olive oil, and optional basil",3 dollars.,"""The Truman Show""",sprite,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+605519,6,5 dollars,I think of home alone. ,Dr. Pepper,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0,1,0,0,0,1
+524803,4 or more,$3.50 ,Breaking Bad,Soda,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,1
+629712,5,17,Interstellar,Coca Cola,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+627505,7,$3.00 ,Rush Hour,Pepsi,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,0,0
+526131,"I would expect it to contain:
+
+* Bread
+
+* Cheese
+
+* Tomato Sauce
+
+* Possibly pepperoni
+
+* Any other toppings",For one decently sized serving I would expect to pay $10 at most. This is based on how much I usually have to pay.,"I think about movies like ""Holes"" or ""Shrek"", since it reminds me of the movies teachers would put on for us during school events.",I would pair sweet soft drinks like Coke or Pepsi with it. This is because of how it was usually served to me at school events.,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,1
+607065,5,5,Scooby Doo,Coke,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+500077,8,$5 ,Back to the Future 2,Diet coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1
+633350,7,$4 ,Ratatouille,Coke,Pizza,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1
+601945,7,22 CAD,Princess Diaries (the apology scene),Diet Coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,0,1
+629878,"At least 3 (flour, olive oil, seasonings etc.)",$2 to $5,WALL-E,Water,Pizza,0,0,1,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,0,0
+712766,A minimum of 5-10 ingredients are required.,3-8 dollars for one portion.,Home alone,Soft drink,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,1
+603664,8,16,Ratatouille,coke,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+840827,6,$25 ,Avengers,Coke,Pizza,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+604897,15,25,Teenage Mutant Ninja Turtles,soda,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1
+525422,3,3.5,Spiderman,Soda,Pizza,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+602560,"I believe that it depends on what kind of pizza we are talking about but just talking about most conventional and simple pizza, I would say 3 - dough, cheese, and sauce. ","Again it depends a lot on the kind and size of pizza but talking about the most basic pizza, probably $25 !?",I think about a nice chill movie with Pizza maybe something like Hangover. ,"The only drink I ever have with pizza is coke i.e, Cola. ",Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+738379,Around 7-10,$15-$25,Teenage Mutant Ninja Turtles,"Coke, iced tea.",Pizza,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,1,1,0,0
+622023,3,$3 ,Ninja Turtles,Coke Zero,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+604770,8,5,spiderman,coke,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+608318,4-7,$5 ,Ratatouille,wine,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0
+626757,5,12 dollars,Spiderman,Pop,Pizza,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0,0,1,0
+745297,5,$7 ,Teenage Mutant Ninja Turtles,Coke,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1
+627599,6,$5 ,Deadpool,Diet coke,Pizza,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,0,1
+520037,4,5,Home Alone,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,1,1
+632189,4,$3 ,Spider man,Coca Cola,Pizza,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+627636,Minimum 3,Between $4 and $7,Spy Kids 3D,Pepsi,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+295428,"cheese, wheat flour, some types of meat, herbs, some type of sauces.",$4 ,Squid game,soft drink,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,1,1
+228777,5,3.5,running man ,Coca Cola ,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1
+609278,6,$5 ,Ratatouille,Soda,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,1,1,1,0,1
+614089,4,20 CAD,The Godfather,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0
+607517,7,14,Recep Ivedik 2,Coke,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+714607,6,$5 ,Venom,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,1,0,1,0,0
+716650,"Many Ingredients. For each of Dough, Sauce, Toppings, there are many ingredients required. If I had to estimate, I would say around 5 for dough, 8 for sauce, and just 2 for toppings. Altogether, that would be around 15 ingredients total.","Usually this food item comes in large quantities. Assuming that a quarter of this item is one serving, then with a full item being about $15, I would say that I would expect to pay $3.75 for one serving. ","I usually associate this item with the winter because school parties would frequently order this food item. Hence, I would say The Polar Express, Elf, and Home Alone.",I would pair some type of soda with this food item — something like a sprite or a coca-cola. ,Pizza,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,1,0,0,1,1
+497695,4,5,Moneyball,Soda,Pizza,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0
+496858,"Typically, the simplest pizza would contain dough, water, yeast, salt, sugar, tomato sauce, and then cheese - around 7 ingredients. Sometimes, we might like to make more complex pizzas with different flavours, like adding more types of cheeses, or adding various toppings like veggies and meats, which would bump up the ingredient count. ","For one slice of pizza, I would expect about a dollar or two. But for full pizzas, the cost could range anywhere from $12 for a small to $20 for a large. And as always, depending on where you get your pizza (somewhere simple and cheap, or somewhere fancy), these prices might change. ","Home Alone! When the delivery guy delivers a cheese pizza ""Little Nero's Pizza"" through the back door for Kevin, when he gets stuck home alone! ","I love Kombucha, so maybe a mango or citrusy kombucha. Something carbonated!",Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,1
+608688,3,$2.50 ,"Inside Out, Teenage Mutant Ninja Turtles",Soda,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,0,1
+604386,6,20,Ratatouille,soft drink,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0
+628559,"About 5
+
+ 
+
+Minimum 3 for dough, tomato sauce, and cheese, to at most 7 for toppings.","$5
+
+ 
+
+$15 for whole piazza)",Avengers 1,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+715152,7,7$,"hangover, or any teen party movies which features a lot of sweet stuff.","carbonated sweet drinks, such as cocacola, pepsi, etc",Pizza,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0
+604110,4,10,Home Alone,Coca-Cola,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+629010,6,$4 ,Coraline,Nestea,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1
+605254,5,4,,Diet Coke,Pizza,0,1,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0
+628990,5,$6 ,Life if Pi,Soda,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,1,1,1,0,1
+625295,6,$4.00 ,Home Alone,Pop,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+603415,4-8,$4-5,Home Alone,Soda,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+635533,6,15 dollars,James Bond 007,Coke,Pizza,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0
+630389,3,20,Sam Raimi's Spider Man,Chocolate Milk,Pizza,1,0,0,0,0,0,1,0,0,1,1,1,0,1,1,1,0,0,0,0
+714901,I would expect four to ten.,"For a single slice, I would pay $5. ",Cloudy with a Chance of Meatballs,Pepsi (or any soda),Pizza,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,1,0,0,0,0
+629792,"7: flour, salt, yeast, water, oil, sauce, cheese","$15 (one whole pizza)
+
+ ",the goofy movie,pop,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+629025,4,5,Teenage Mutant Ninja Turtles,Soda,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,1,0
+524441,6,$10 ,Teenage Mutant Ninja Turtles,Ginger ale,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0
+389109,8,18,Cloudy With a Chance of Meatballs,Canada Dry Ginger Ale,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+631216,5,6,A Quiet Place 2,coke,Pizza,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0
+738875,3,$4 ,Home alone,Milk,Pizza,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+634669,4,$2.29 ,Carry-On,Sprite,Pizza,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,1
+409940,6,8$,spiderman,diet coke,Pizza,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,0
+399605,5,5,Teenage Mutant Ninja Turtles,coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0
+721831,8,6,Home Alone,Coke,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+835223,5,4,Set it up,coke,Pizza,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,1,0
+712938,5,15,Green Book,coke,Pizza,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+395712,"5 ingredients,  bread, cheese, sauce, meat, veggies",$4 - $8,Teenage Mutant Ninja Turtles,"Pop, Coca-Cola, 7up, crush",Pizza,0,0,1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,1,1
+603388,about 7,12 cad,Garfield,Coke,Pizza,0,1,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0
+617774,3,15.99-29.99,Cars,Iced tea,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,1
+289440,5,4,Teenage Mutant Ninja Turtles,coke,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,1,0
+714503,3 to 4,$15 ,"relaxing, comedy",cola,Pizza,0,1,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,0
+714893,5,$5.00 ,Home Alone 2,Coke,Pizza,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,1,0,0
+601094,"7 (flour, water, oil, yeast, sauce, cheese, topping)",$6.50 ,teenage mutant ninja turtles,soda,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+618150,"5 (pizza base, sauce, cheese, topping, and oregano)","for a large pizza, $25.",Home alone,Diet coke,Pizza,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,1,0,0
+607944,5,5 dollars,Spiderman,Milk,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,0
+629844,4,$6 ,Ratatouille,Orange juice,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1
+626482,5,5,The Godfather,Pop,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+609257,5,6$,High School Musical ,Rootbeer,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,1,0,1
+717921,8,$4 ,Zootopia,Lemonade,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,0,1
+181851,5,10,,pops,Pizza,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0
+629041,3,7 dollars,Home Alone,Coke,Pizza,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0
+604062,Four to five. Also depends on the different types of pizza.,$15 ,"Honestly any movie, pizza is a movie food.",Some sort of soft drink.,Pizza,0,0,0,1,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,0
+716749,4 or more,15 dollar,no,water or  lemon water,Pizza,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+633143,"This food item should contain anywhere from 5-10 ingredients depending on the amount of topping you want. The key ingredients should be salt, pepper, cheese, tomato sauce, and dough (5 ingredients). ",Around $5 per serving,Teenage Mutant Ninja Turtles,Soft drinks such as Coca-Cola,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+743828,10, 4-6 dollars,Mario Movie,Soda Pop,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,1,0
+520861,4,12,ratatouille,Soda,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+517019,5,4,30 minutes or less,pop,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,1
+626779,"Dough (water, flour, yeast), cheese, tomato sauce",4$ for a slice,Home alone,soda,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,0,1,1,1,0,1,0,0
+611716,3,7,Home alone,coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,0
+193195,5,$5 ,21 Jump Street,Coca Cola,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,1
+627530,7,$10 ,Free Guy,Coca-Cola,Pizza,0,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,0,0,0,0
+626479,3 or more depending on what toppings you want,"A slice would probably be like $5, a whole pizza maybe $15?",Spider-man? Just cause it takes place in New York...,Any type of soda,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+624540,"3
+
+sansauge, 
+
+corn, 
+
+sauce, 
+
+ ",15 per person,harry poter,bubble tea,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,1,0,0,1,0
+625315,3-8,$7 ,Home Alone,Soft drink,Pizza,0,1,0,0,0,1,0,0,0,1,1,1,1,0,0,1,1,1,1,1
+601941,4,Around 15 dollar without tax,"none, stranger things is the tv series I can think of.",cococola,Pizza,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1,1
+723968,"21 ingredients
+
+ ",within 10 dollars,Godfather,Nestea,Pizza,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+715806,10,7,Soul,coke,Pizza,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,0,1
+720045,8,5,The Godfather,Water,Pizza,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,1
+713585,6,30,Idk,Soda,Pizza,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,0,0,0,1
+611188,4,7,Five Nights at Freddy’s,Ginger Ale,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0,0,1
+606726,10,16,Life is Beautiful,Orange Juice,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,1,0
+629142,"I would expect this food item to contain at least 5 ingredients, but it can be more based on toppings you add.",I would expect to pay around $5 dollars for one serving of this food item.,I think of the movie Cloudy with a Chance of Meatballs.,I would pair pop with this food item.,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1
+634825,7,$5 ,Cloudy with a chance of meatballs,Soda,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,1
+613409,"flour, yeast, olive oil, salt, mozzarella cheese, and tomato sauce. So total of 8",8,The wicked,Coke-Cola,Pizza,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,1,0,0,0,0
+633224,4,$2.50 ,Home Alone,Coca Cola,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+738850,6,5,Five Nights at Freddy's,Coca Cola,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,0,1
+500470,At least 6,8.00 CAD,Ratatouille,Soda,Pizza,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+13183,6,4,Harold & Kumar Go to White Castle,ice tea,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+627169,15,$20 ,Teenage Mutant Ninja Turtles,Coke,Pizza,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,1,1,0,0,0
+229041,5,5$,home alone,soda,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,1,1,0,0
+496344,8 ingredients,3 dollar per slice,Spider Man,Coke,Pizza,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1
+409723,11,7,Home alone ,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0,1
+630949,7,$10 ,Lord of the Rings,Soda,Pizza,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0
+413014,"Around 6-8, not including spices/seasoning",5-10$ for two slices,"Something fun, like Superbad",A soda such as Coca-Cola,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,1,1,0,1,0,0,0,1
+310438,4,5,Home Alone,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,1,0,1
+627430,4,10,Home Alone,Coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,1,1,0
+526510,4,6,,cola,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+390823,4,$5 ,The Hangover,Coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0
+717116,4-8,about $20,Breaking Bad (not a movie),coke or diet coke,Pizza,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+712143,6,15,Little Italy,Cola,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0
+612538,6,$3 ,Toy Story,Coca Cola,Pizza,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,1
+627539,4,5$,The Mario Movie,Coca Cola,Pizza,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,1,0,0
+603812,5,5 bucks,Home Alone,Root Beer,Pizza,0,1,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0
+740568,10,$5 ,Little Italy,Coke,Pizza,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,0,0,1,1
+712702,7,3 dollars,everything everywhere all at once,pineapple juice ,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,1
+519638,"7 - Flour, Water, Yeast, Olive Oil, Tomato Sauce, Cheese, Basil",$2 for a slice,Barbie,Sprite,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,1,0,0,0
+627800,3-4,5 dollars,hitman,Soda,Pizza,0,1,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,1,0
+406863,5,5,Teenage Mutant Ninja Turtles,coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,1
+726962,10,8-Feb,Spiderman,coke,Pizza,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0
+628077,10,$5 ,Breaking Bad,Soda ,Pizza,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1
+601693,6,$3 ,Mystic Pizza,Diet Coke,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,1,0,0
+517096,3 to 4,$5 ,Home Alone,Coca Cola,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,1
+606821,5,$3 ,Back to the Future,Sprite,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,1,0
+455047,4,6,,coke,Pizza,0,0,1,0,0,0,0,1,0,1,0,1,1,1,0,1,0,0,0,0
+625576,10,5,Liquorice Pizza,Water,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,0,0,1,0,1,0,1
+716549,8,9,The Avengers,Hot water ,Shawarma,0,0,0,1,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,1
+715742,"Chicken, vege",8-12$,"None...
+
+Ok tbf i think of my life at uoft, if life is a movie",lemon tea,Shawarma,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0
+727333,3,8,action movie,water,Shawarma,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+606874,10,$10 ,The Dictator,Juice,Shawarma,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0,0
+505318,5-10,$8 ,Superbad,Ayran,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,0,1,1,0,0
+605771,5,$10 ,,Water,Shawarma,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+606929,about three ,10 dollor,dragon,coke,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+609789,4,15 dollar,Nothing,Coke,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+644623,5,7-10 dollars,avengers,,Shawarma,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+626792,13,13,anjaana anjaani,water,Shawarma,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,1
+714863,10,10,none,juice,Shawarma,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0
+602805,10,11 Canadian Dollars,The Avengers,Water,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0
+602526,9,$13 ,Hawkeye,orange juice,Shawarma,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,1,0,1,0,0
+497421,"At least 3, such as pita, meat, vegetables.",About 20-30 CAD,Argo,Coke,Shawarma,0,1,0,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,1,0
+389328,5,$10 ,Transformers,Beer,Shawarma,0,0,1,0,0,0,1,0,0,0,0,1,1,0,1,1,0,1,1,0
+289931,"6: Wrap, meat, lettuce, tomatoes, sauces, cheese",$12 ,Aladdin,Pop like Coke,Shawarma,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+620148,5,7,The Invisible Guest,Water,Shawarma,1,0,0,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+387155,10,12,Squid game,water,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1,0,0
+516975,12,"$12 - $15
+
+inflation 😩",The Avengers,Ginger ale,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0
+630825,4,5 dollar,Titanic,Juice,Shawarma,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0
+614043,5-8 (6 in general),8,Avengers 1,Ayran ,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,0,0
+521125,8,$9.00 ,The Avengers,Root beer,Shawarma,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0
+627780,5,$10 ,1001 Nights,Water,Shawarma,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+492744,8,14,The Avengers,Soda,Shawarma,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+618747,"Flatbreads, spice, chicken, beef, sauce, oil, lettuce",I guess around $9,The Avengers,Soft drinks,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+607815,8,10 CAD,The Avengers,Coke,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+601609,8,10,Fast Furious,Nestea,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,0,0
+602657,10,10,The Avengers,milk tea,Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+616449,Four,$10 ,The Avengers,Soda,Shawarma,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,1,0,0,1,0
+501893,"5: Flour, meat, pickles, fries and sour cream",CAD10-15,"not sure...maybe Turkish movies? But it will remind me of a game called Shawarma Legend, which is a simulation game and highly recommended!",orange juice,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+507448,potato,10,The Avengers,Coke,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0
+606556,3,4 dollars,Dangal,Cola,Shawarma,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+724326,Around 6-8,$12 ,"""Star Wars: Episode V - The Empire Strikes Back""",Water,Shawarma,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+616945,5,8,ratatouille,sprite,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+630962,5,7.5,Spiderman Into The Spiderverse,Water,Shawarma,0,0,1,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0,1,0
+715814,"5 ingredients, usually chicken/beef, wrap bread, lettuce, salad dressing, pickled vegetables, and sometimes onions if necessary (then 6).","I would prefer to pay about 5-8 Canadian dollars for each of these, preferably 6-7 as for me this is only a quick lunch on week days.","I might think of some short ones or simply videos as when I am having shawarma, I do not usually have much time and the food is some hands' size so people can usually finish it up quickly, so I would say no movie/short ones like Monster Inc.",I would simply pair it with water as I have never experienced much about the food item before.,Shawarma,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+502799,6,$6 ,Slumdog millionaire ,Ice tea,Shawarma,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+605278,"4 (meat, wrap, veggies, sauce)",$7 ,Cleopatra,Sprite,Shawarma,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0
+388888,10,12,The Avengers,iced tea,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0
+519548,8,$15 ,The Avengers (2012),Water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0
+405521,3,15,,mango juice,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,1,0
+607410,5,$8 ,The Kite Runner,Coca Cola Zero,Shawarma,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,1,1,0,0,0
+715795,6,$8 ,2012,Orange juice,Shawarma,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,1,1,0,1,0
+625326,6,$7 ,The Boys,Lassi,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+627220,6 to 10,11 to 14 dollars,Mission Impossible,Coca-cola,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0
+634964,3,$10 ,The Avengers,Coke,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+722500,4,$7 ,The Avengers ,orange juice,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+602824,5,8 dollars,Black Hawk Down,Water,Shawarma,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,0
+618355,8,10,dictator,coke,Shawarma,0,0,1,0,0,0,0,1,0,0,1,1,1,0,1,1,0,0,1,0
+611097,6,6,The Avengers,coke,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0
+634328,10,$12 ,The Avengers,Soda,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0
+607160,5,$8 ,Dangal,Orange juice,Shawarma,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+728522,10,8,Kungfu Panda,Nestea,Shawarma,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0
+718570,10,10,,coke,Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+714598,7,12 cad,The Avengers,Carbonated drink,Shawarma,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+601950,4,7,black hawk down,coke,Shawarma,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,1,0,0,1,0
+612478,8,$14 ,Avengers,Diet coke,Shawarma,0,0,1,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0
+501416,Around 8~10 excluding condiments.,Around $5~15 before tax.,N/A (I don't watch a lot of movies),Soft drink (catbonated or not),Shawarma,0,0,1,0,0,0,0,1,0,0,1,0,1,0,1,1,0,1,0,1
+629710,15,$16 ,The Avengers ,Apple juice,Shawarma,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+502610,"The meat, the vegetables, the bread,the sauce.",10-15$,Alladin,coca cola zero,Shawarma,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+603476,9,10,Cloudy with a Chance of Meatballs,coke,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0
+600957,11,$16.00 ,How to lose a guy in 10 days,Water,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+713423,"about 8 (eggs, rice, some sorts of vegetables, etc.)","This is my first time hearing about this food, so I don't really have an idea...","Can't think of any (don't have an idea about the taste of Shawarma, and haven't seen it in any movie that I've watched)",juice?,Shawarma,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0
+722431,Around 7 key ingredients.,10$.,The Avengers.,Nestea.,Shawarma,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+633234,5,$8 ,Babylon,Iced Tea,Shawarma,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0
+148179,10,15,,Cola,Shawarma,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,1,0,0,0,0
+715845,10,$15 ,Dangal,Orange juice,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+632153,Around 6,At most $12,Avengers,Sprite,Shawarma,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,1,0,0,1,0
+606552,6,15,Lord of the rings,Nestea,Shawarma,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,0,1,1,1,0
+738409,8,10,,Water,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+612096,7,6,Aladdin,Coke,Shawarma,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,1,0
+743537,5,10 dollar,The Avengers (2012),Sprite,Shawarma,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+632896,I would expect this food item to contain 5 ingredients.,I would expect 10 dollars for 1 serving of this food.,The Avengers,Coke,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,1,0,0,1,0
+605207,5,$10 ,Avengers,Water,Shawarma,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+617542,4 to 6,$15 to 25,,Juice,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0
+719554,3,$6 ,,,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+627427,6,$15.00 ,Prince of Egypt,Water,Shawarma,0,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0
+411315,5,6,Borat,coke,Shawarma,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1
+631507,7,At most 10 dollars,The Avengers (2012),Soda,Shawarma,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+627798,10,$10 ,The Avengers,Sprite,Shawarma,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0
+712093,7,10$,Harold and Kumar,Coca Cola,Shawarma,0,0,1,0,0,0,0,1,0,1,1,1,1,0,1,1,1,0,0,0
+627488,12,$10 ,Gossip Girl,Soda,Shawarma,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0
+626493,7,10,The Avengers,Apple Juice,Shawarma,0,1,0,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,1,0
+601363,10-12,$8-$15,Monty Python,Ayran,Shawarma,0,0,0,1,0,0,1,0,0,0,1,1,1,0,1,1,0,1,1,0
+712898,9,7,The Avengers,Nestea,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0
+603398,5-7,7 - 10 CAD,Avengers,Lemon Mint Juice,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,1,0,1,0,1,1,0,0
+631012,11,11,Khabi Khushi Khabi Gham,Diet Coke,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,0,0
+601848,5,$9 ,Mission: Impossible – Dead Reckoning Part One,Iced lemon tea,Shawarma,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+612131,7,$2 ,Avengers Endgame,Mineral water,Shawarma,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+408630,3,10 dollars,3 Idiots,water,Shawarma,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0
+632091,8,12-14$ per wrap.,no movie,a can of soda,Shawarma,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,1,0,1,0,0
+601122,12,10,The Avengers,Coke,Shawarma,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,1,0,0,0
+602871,3,6 cad,The Avengers,Coke,Shawarma,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+520828,4,10,The Avengers,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,1,0,1,1,0,0,0,0
+514199,6,7,,Water,Shawarma,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,1
+389697,10,8,,"Water
+
+Fruit juice/smoothie
+
+Sparkling water
+
+Soft drinks",Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+714430,10,15 dollars,spiderman,orange juice,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+612567,4,$6 ,Dune,Juice,Shawarma,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+744468,5,$5 ,Avengers,Orange Fanta,Shawarma,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0
+502722,"Can vary on how much vegetables and sauces you want, but maybe 7-8 ingredients not including spices.",In Toronto around $7-8 per shawarma.,Advengers 2012 Movie,Water or sprite,Shawarma,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+519681,20,10,Parasite,Diet Coke,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0
+631125,8,10,The Avengers,Coke,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,0
+606119,5,$13 ,Borat,Coke,Shawarma,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,1,0
+627252,15,$8 ,None come to mind,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0
+616568,5,15 dollars,i dont know,soda,Shawarma,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0
+603838,10,6,The Avengers,Lemonade,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+719735,"1. Pita wrap
+
+2. Meat 
+
+3. Lettuce
+
+4. Tomato
+
+5. Onions
+
+6. Sauce
+
+ ",$10 ,,Water,Shawarma,0,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,0,0,1,1
+608062,7,$12 ,Batman the dark knight ,Mango juice,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+608704,7,$10 ,The Avengers,Coke,Shawarma,0,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0
+520383,"A variable number of ingredients, maybe around 6?",$11 ,I don't think of a movie when thinking of this food item,Water,Shawarma,0,0,1,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,1,0
+603793,10,20,the avengers,water,Shawarma,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,0,1
+603933,6-10 ingredients,15 dollars,The Avengers,sprite,Shawarma,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+605519,8,8 dollars,The mummy,Water,Shawarma,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,1,0
+524803,4 or more,$7.00+,The Dictator,Beer,Shawarma,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,1,0
+629712,6,14,Taxi Driver,Nestea,Shawarma,0,1,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,1,0,0
+627505,10,$8.00 ,The Dictator,Water,Shawarma,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+526131,"I would expect it to have:
+
+* A wrap
+
+* Lettuce
+
+* Beef or Chicken
+
+* Sauce",I would expect to pay about $8 for one serving. This is based on how much I usually have to pay.,"I've never had them before attending U of T, so I don't associate them with anything.","I would pair it with water, since they often have a lot of fat and I wouldn't want to also take soft drinks on top of it.",Shawarma,0,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0
+607065,7,12,Avengers,Iced Tea,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,1,0
+500077,15,$10 ,none,Coke Zero,Shawarma,0,0,1,0,0,0,0,1,0,1,0,1,1,1,1,1,1,1,0,0
+633350,12,$11.50 ,The Avengers,"Gingerale
+
+ ",Shawarma,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,1,0,1,0,0
+601945,6,6 CAD,Deadpool & Wolverine,Diet coke,Shawarma,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,1,0
+629878,5 to 6,$8 to $10,Not sure,Water,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+712766,Minimum of 10 ingredients,Around 10-20 dollars for one portion,The Avengers,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,1,0,1,0
+603664,8,16,The Avengers,water,Shawarma,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+840827,4,$10 ,Comedy movie,Water,Shawarma,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+604897,6,13,The Avengers,Lemonade,Shawarma,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0
+525422,6,8,Avengers,Water,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0,1,1,0,0
+602560,"I would expect good 7-8 ingredients including veggies, flour, meat and any sauces. ",It should be cheap maybe at max 12 bucks. ,Probably some niche movie or some movie specific to a country and not an English movie. ,Never personally had shawarma but I'd expect to pair it up with maybe a lemonade or ice tea?,Shawarma,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1
+738379,Around 8-10.,$8-$12,Avengers,The Avengers,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0
+622023,8,$10 ,Avengers,Coke Zero,Shawarma,0,0,0,0,1,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0
+604770,9,11,avengers,no drink,Shawarma,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0
+608318,7-10,$10-15,You Don't Mess with the Zohan,Coke,Shawarma,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0
+626757,5,10 dollars,Avengers endgame,Pop,Shawarma,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+745297,6,$9 ,Borat,Coke,Shawarma,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,1,0
+627599,7,$7 ,Avengers,Nestea,Shawarma,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+520037,7,12,Avengers,Pepsi,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+632189,6,5.99,Spider man spider verse,Water,Shawarma,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0
+627636,Minimum 4,Between $6 and $9,Pulp fiction,Water,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,1,0
+295428,"some type of meat, wheat flour, sauces, fries, veggie, pickles",$8 ,squid game,soft drink,Shawarma,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0
+228777,10,8,Star Wars,sprite ,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+609278,8,$12 ,Aladdin,Sugarcane juice,Shawarma,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+614089,6,10 CAD,The Avengers ,Coke,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1,0,0
+607517,6,14,Avengers,Fruit Juice,Shawarma,0,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0
+714607,5,$5 ,Alladin,Peach Green Tea,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+716650,I would expect a lot of ingredients for this food item. The wrap and the fillings combined would total around 10 ingredients.,I would expect to pay around $7 to $8 dollars for one serving of this food item at the food trucks.,The only movie that is associated with this food item would be the first Avengers due to the post credit scene.,I would pair this item with a ginger ale because that is the most frequent drink purchased with this food item.,Shawarma,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+497695,5,12,Gladiator,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0
+496858,"I expect this food item to contain around 12 ingredients: the flatbread, around 5-6 veggies like tomatoes, lettuce, pickled beetroot, cucumber, pickles, carrots. Some meat, some cheese like feta, and lastly the sauces: hotsauce, garlic sauce (toum), hummus, and tzatziki. ",I would expect to pay around $8-10. ,The Avengers movie when they eat shawarma in the end credits scene!,Maybe some mango lassi,Shawarma,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+608688,5,$10 ,The Avengers,Soda,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+604386,4,10,Avengers,water,Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+628559,8,8,Iron Man,Soda,Shawarma,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,0,0,0,1,0
+715152,9,15$,Any bollywood movie,I usually like water,Shawarma,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+604110,4,10,The Avengers,Sprite,Shawarma,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0
+629010,10,$9 ,The Avengers,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,1,0,1,0
+605254,10,9,,Diet Coke,Shawarma,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0
+628990,6,$11 ,,Soda,Shawarma,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0
+625295,7,$6.00 ,None in particular,Pop,Shawarma,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+603415,8-12,$7-10,Scott Pilgrim vs. the World,Soda,Shawarma,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,1,0,0,1,0
+635533,5,10,Son of Babylon,Coke,Shawarma,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+630389,7,17,Avengers 1,Coke,Shawarma,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0
+714901,Six.,I would pay $12.,The Avengers,Pepsi or Coca Cola,Shawarma,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+629792,"7: wrap, protein/falafel, lettuce, tomato, cucumber, onion, sauce",$10 ,avengers,pop,Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0
+629025,6-9,20,The Avengers,Pepsi,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,1,0
+524441,7,$10 ,Avengers,Pepsi,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+389109,5,20,"Cloudy With a Chance of Meatballs again? (Shawarmas don't appear in that though, but hey it's food)","Ayran Yogurt (actually I don't drink this after having tried it twice, but if we're talking about what I'd canonically pair it with). If we're talking about what I'd actually drink and pair it with, then just water",Shawarma,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+631216,8,10,Avengers,lemonade,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+738875,7,$10 ,Deadpool & Wolverine,Water,Shawarma,0,0,1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,1,1,0
+634669,4,$16.99 ,The Avengers,Wine,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,0,0,1,0
+409940,5,10$,avengers,diet coke,Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+399605,6,7,avengers,coke,Shawarma,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+721831,6,11,Bad Boys,Fanta,Shawarma,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0
+835223,5,12,-,Coke,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0
+712938,10,10,3 Idiots,Fanta,Shawarma,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0
+395712,2 ingredients ,$10 - 15$,Avengers,"Pop, Coca-Cola, 7up, crush ",Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,0,1,1,0,0
+603388,about 8,13 cad,The Avengers,Coke,Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+617774,5-10,7.99-15.99,The social network,Water,Shawarma,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0
+289440,5,7,The Avengers  ,coke,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,1,0
+714503,3 to 4,10,documenary,cola,Shawarma,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0
+714893,7,$10.00 ,Avengers,Coke,Shawarma,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+601094,"12 (chicken/beef, flatbread, onion, pepper, pickle, sauce, spices for marinade)",$7.50 ,The Avengers,ice tea,Shawarma,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,0,0
+618150,7,$9 ,,Diet Coke,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,0,1,1,1,0
+607944,7,10,chef,Juice,Shawarma,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0
+629844,6,$7 ,Minions,Orange juice,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+626482,7,9,The Big Sick,Sprite,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,0,1,1,0,0
+609257,10,14$,Jurassic Park,Water,Shawarma,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,1,0,0,1,0
+717921,20,$13 ,Wicked,Sparkling water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+181851,7,8,,water,Shawarma,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0
+629041,6,9 dollars,Aladdin,Iced tea,Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+604062,Six to seven.,$6 ,Marvel's Avengers,Coke/Coke Zero,Shawarma,0,0,1,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,1,0
+716749,7,10-15 dollar,no,water or lemon water,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+633143,Around 8-10 ingredients,Around $8,The Avengers 1,Soft drinks such as Coca-Cola,Shawarma,0,0,0,1,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0
+743828,8,12,Avengers,Mango Juice,Shawarma,0,0,0,0,1,0,1,0,0,0,1,0,1,0,1,1,0,1,1,0
+520861,7,10,,Soda,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,1,0
+517019,9,11,Avengers,pop,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+626779,"meat, pita, onions",15$,i dont know,water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,0,0,1,0
+611716,5,7,The Avenger,coke,Shawarma,0,1,0,0,0,1,0,0,0,1,0,1,1,1,1,0,0,1,0,0
+193195,15,$15 ,Avengers,Soda,Shawarma,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,1,0
+627530,8,$10 ,Arcane,Ginger Ale,Shawarma,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1,1,0,0,0,0
+626479,Around 6,$8 ,Avengers because of Iron Man asking everyone to get shawarma after the fight,Some type of soda,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+624540,"5, 
+
+lettuce, 
+
+chicken
+
+powder",7 for 2,Bahen,crush/cola,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+625315,6-9,$12 ,The Avengers,Soft drink,Shawarma,0,0,1,0,0,0,1,0,0,0,1,1,1,0,1,1,1,1,0,0
+601941,6,14 dollar without tax,"none, only thing I know about it is the game, shawarma legend.",cococola,Shawarma,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0
+723968,25 ingredients,within 10 dollors,Legend of Shawama,Nestea,Shawarma,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+715806,5,10,Aladdin,sprite,Shawarma,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0
+720045,8,6,Avengers,Water,Shawarma,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0
+713585,5,10,Idk,Soda,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0
+611188,6,7,The Mummy,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0
+606726,7,8,The Kite Runner,Ayran,Shawarma,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0
+629142,I would expect this food item to contain around 10 ingredients.,I would expect to pay around $10 for a single serving of this food item.,I think of the movie The Avengers.,I would pair pop with this food item.,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0
+634825,10,$10 ,Marvel Avengers,Soda,Shawarma,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0
+613409,"Rice, Beef, Spice, Onion, Tomato, Lettuce. Total of 6",14,Forest Gump,Coke-Cola,Shawarma,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+633224,7,$4.00 ,John Wick,Water,Shawarma,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0
+738850,8,10,The Avengers,Water,Shawarma,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,1,0,1,0
+500470,At least 5,8.50 CAD,Avengers,Soda,Shawarma,0,0,0,1,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0
+13183,10,10,Aladdin,diet coke,Shawarma,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,0
+627169,8,$8 ,Ratatouille,Sprite,Shawarma,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,1
+229041,7,5-10 dollars,Avengers ,pepsi,Shawarma,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+496344,3,8,Avengers,Jarritos,Shawarma,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+409723,15,10,The Avengers,Lassi,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0
+630949,7,$7 ,Star Wars,Soda,Shawarma,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+413014,"7-10, depending on how many veggies you want inside",7-10$ for one shawarma,"I think of movies that take place in Toronto since it's so common here, such as Scott Pilgrim vs The World",A fruit juice such as orange juice,Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0
+310438,7,10,The Avengers ,Water,Shawarma,0,0,1,0,0,0,1,0,0,0,0,1,1,1,1,0,1,1,0,0
+627430,8,8,The avengers,Water,Shawarma,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,0,1,1,0,0
+526510,8,10,,water,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,1
+390823,5,$7 ,Scott Pilgrim,Nestea,Shawarma,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0
+717116,3-5,~$15,The Avengers,carbonated drinks,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0
+712143,8,18,"Shawarma Legend
+---------------",cola,Shawarma,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0
+612538,10,$5 ,Avengers,water,Shawarma,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1
+627539,6,10$,Rush Hour,Sprite,Shawarma,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+603812,7,7 Bucks,Good Will Hunting,Root Beer,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+740568,6,$8 ,Fight Club,Water,Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+712702,4,10,Shawarma Bowl,pineapple juice,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+519638,"7 - Pita Bread, Chicken, Lettuce, Pickle, Onion, Rice, Shawarma Sauce",$7.25 for one wrap,Drive,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,1,0,0,1,0
+627800,6-7,8-12 dollars,Avengers ,"Water, Soda",Shawarma,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,1,1
+406863,8,10,Lion King,Coke,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+726962,8,20,Captain of America,Water,Shawarma,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+628077,15,12,The Avengers,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,0,0,1,0
+601693,7 (if we're talking about a shawarma wrap),$7 ,The Avengers,Water,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0
+517096,8 to 10,$7 to $10,The Avengers,Nestea,Shawarma,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0
+606821,8,$5 ,Avengers,Water,Shawarma,0,1,0,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0
+455047,4,8,,"juice, water or coke",Shawarma,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+625576,12,10,The Avengers,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,1,0,1,1,0
+716549,5,15,Spirited Away,Miso soup,Sushi,0,1,0,0,0,1,0,0,0,1,1,1,0,1,1,1,0,0,0,0
+715742,"紫菜，米饭
+
+rice, vege
+
+salmon",6$ a pack,Japanese movies,Miso Soup,Sushi,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+727333,4,5dollar,cartoon movie,cola,Sushi,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+606874,3,$15 ,Johnny English,Water,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+505318,3-10,$8 ,Karate Kid,Water,Sushi,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,0,1,0,0
+605771,5,$15 ,,,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0
+606929,about 5,10 dollor,drange,coke,Sushi,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0
+609789,3,30 dollar,The Truman Show,ice tea,Sushi,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0
+644623,3,15-30 dollars,,,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0
+626792,10,12,Kung fu panda,tea,Sushi,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0
+714863,4,20,none,tea,Sushi,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0
+602805,11,16 Canadian Dollars,The Wolverine,Coca Cola,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+602526,5,$9 ,Spirited Away,soju,Sushi,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,1,1,0,0
+497421,"Around 4, such as rice, meat, vegetables, seafood.",30-100 CAD,Jiro Dreams of Sushi,Oolong tea,Sushi,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0
+389328,4,$15 ,Kill Bill,Sake,Sushi,0,0,0,1,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,1
+289931,"5: Seaweed, Rice, Fish, Wasabi, Soy Sauce",$20 ,Finding Nemo,green tea,Sushi,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+620148,3,12,Your Name,Tea,Sushi,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,0,0,0
+387155,4,16,Once Upon a Time... in Hollywood,water,Sushi,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0
+516975,10,$13 - $20 sadly,The Lord of the Rings: The Fellowship of the Ring,Iced tea,Sushi,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0
+630825,4,15 dollars,Transformer,Soup,Sushi,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0
+614043,5,23,Cars,Green tea,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,0,0,1,0
+521125,4,$5.00 ,Shark Tale,Root beer,Sushi,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0
+627780,2,$50 ,Bullet Train ,Sake,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0
+492744,4-6,20,Tokyo Story,Lemon water,Sushi,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0
+618747,"Rice, nori, cucumber, salmon, avocado, crab, soy sauce","Sushi can cost quite a lot sometimes if it is an omakase restaurant. For regular sushi, one box of sushi costs around $15.",Jiro Dreams of Sushi,"Sake, beer",Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+607815,3,20 CAD,Your Name,Sake,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+601609,10,15,Harry Potter,Diet Coke,Sushi,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0
+602657,4,20,Jiro Dreams of Sushi,miso soup,Sushi,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0
+616449,Four,$12 ,Isle of Dogs,Green tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0
+501893,2: rice and sashimi,CAD15-20,"Little Forest, a Japanese film",tea,Sushi,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0
+507448,"salmon, cucumber",30,Jiro Dreams of Sushi,Calpis,Sushi,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,0,0
+606556,4,4 dollars,Doraemon,Miso Soup,Sushi,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+724326,"5 (Nori, rice, cream cheese, cucumber and salmon)",$16-18,"""Naruto""",Tea,Sushi,0,0,0,1,0,1,0,0,0,1,0,0,0,1,1,1,0,1,0,0
+616945,3,5,rush hour,water,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0
+630962,2,18,Jaws,Water,Sushi,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,0
+715814,"4 ingredients, dried laver, rice, some sauces (usually 1 sauce), some toppings (usually just 1 kind, sometimes might come to 2 or 3, and as sometimes dried laver is not used, we will give an average of 4 here).","For a meal of sushi (like dinner), though I never had it at Toronto, I would expect to pay for around 40-50 CAD, and for each piece/plate, depending on the ingredients/number of sushi, it may cost 5-10 normally, and I think this is a fair price.",I might came up with some Japan related movies(like Jiro Dreams of Sushi - this is in fact a documentary)/cartoons(like 一休さん)/TV series (like The Solitary Gourmet).,"I would say some Japanese culture related drinks like their wines (e.g. beer, rice wine, etc.) and tea (green tea more if specifically).",Sushi,1,0,0,0,0,0,0,1,0,1,1,0,1,0,1,1,1,0,0,1
+502799,4,$10 ,Rush hour,Water,Sushi,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+605278,"5 for nigiri (rice, water, rice vinegar, wasabi, some sort of protein)",$10 ,The End of Evangelion,Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0
+388888,5,20,Midnight Diner,Barley tea,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,1,0,0,1
+519548,3,$20 ,Spirited Away,Sake,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0
+405521,2,18,anime,beer,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+607410,3,$16 ,Crazy Rich Asians ,Water,Sushi,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+715795,6,$10 ,The Perfect Storm,Iced fruit punch juice,Sushi,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,1,0
+625326,3,$1 ,Anime,Soup,Sushi,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+627220,5 to 7,15 to 20 dollars,The Karate Kid,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0
+634964,2,$20 ,John Wick,Water,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+722500,3,$1 ,Jiro Dreams of Sushi,apple juice,Sushi,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,0,0,1
+602824,5,10 dollars,The Pacific,tea,Sushi,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,0,0,1,0
+618355,4,8,weathering with you,hot tea,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+611097,5,10,Kill Bill,coke,Sushi,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0
+634328,15,$15 ,Findig Nemo,Green Tea,Sushi,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0
+607160,7,$15 ,kill bill,sake,Sushi,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,1,0,1,0,0
+728522,5,15,Eternal Sunshine of the Spotless Mind,Hot Tea,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0
+718570,5,10,,juice/wine,Sushi,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0,0
+714598,3,35,Cars 2,Hot tea,Sushi,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0
+601950,2,3,Jiro dreams of Sushi,tea,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0
+612478,4,$14 ,My neighbour Totoro,Beer,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+501416,2~5 excluding condiments and without variety.,$15 or above,N/A (I don't watch a lot of movies),"Tea, uncarbonated soft drink, alcoholic beverage",Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,1,0,1
+629710,3,$2 ,Johnny English,Water,Sushi,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,1,1,0,0
+502610,2 rice and fish. can be 3 with toppings, 6$ ,tokyo drift,Water,Sushi,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+603476,4,20,Oldboy,water,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0
+600957,8,12,The Proposal,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0
+713423,"~3 to 5: sushi rice + dried seaweed + some kind of sashimi is sufficient, but maybe something more as well",Maybe for ~CA$10-15 for 10 simple sushis at sushi express restaurants,Spirited Away,tea,Sushi,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0
+722431,Around 6 key ingredients.,15$ for 10pcs.,Rurouni Kenshin.,Sake or green tea.,Sushi,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0
+633234,4,$10 ,Oldboy,Water,Sushi,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0
+148179,5,30,,Tea,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0
+715845,7,$17 ,Spirited Away,Green tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0
+632153,At least 3,At most $15,Nemo,Fish sauce,Sushi,0,1,0,0,0,0,0,1,0,1,1,0,1,0,0,1,0,1,0,0
+606552,4,12,Gone Girl,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+738409,3,15,My Hero Academia,milk,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+612096,5,7.5,Food Wars!,Green tea,Sushi,0,0,0,0,1,0,0,1,0,1,0,0,0,1,1,1,0,0,1,0
+743537,4,3 dollars,Your Name (2016),Cold water,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+632896,I expect 6 ingredients contained in this food item.,I would expect 12 dollars for 1 serving of this food item.,I think of the movie Your Name.,I think Sake pair with this food item. ,Sushi,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,1,1,1,0,0
+605207,4,$10 ,Bullet Train,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+617542,2 to 3,Around $25 a meal or $1-3 each serving/piece,Isle of Dogs,Miso Soup,Sushi,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0
+719554,1,$10 ,"深夜食堂
+
+ナミヤ雑貨店の奇蹟",Miso soup,Sushi,0,0,0,0,1,0,0,0,0,1,1,1,0,1,1,0,1,0,1,0
+627427,2,$30.00 ,Liz and the Blue Bird,Green tea,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0
+411315,5,9,spirited away,tea,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0
+631507,It depends on what kind… on average 5,Around 10 dollars per roll,Spirited Away (2001),Water,Sushi,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+627798,4,$11 ,Frozen,Tea,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+712093,5,15$,Seven Samurai,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+627488,7,15,Barbie,Water,Sushi,0,0,1,0,0,1,0,0,0,0,0,1,0,1,1,1,1,0,0,0
+626493,4,15,Cars 2,Water,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,0,0,1,0
+601363,2-5,$14-$20,The boy and the heron,A beer,Sushi,0,0,0,1,0,1,0,0,0,1,0,1,0,1,0,1,1,0,0,0
+712898,4,20,Howl's Moving Castle,green tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0
+603398,7-10,15 - 25 CAD,Suits,"I wouldn't pair a drink with sushi
+
+Water probably",Sushi,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+631012,9,13,Kung Fu Panda,Water,Sushi,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+601848,5,$13 ,John Wick 4,Green tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0
+612131,6,$8 ,The Wolverine,Green tea / ocha,Sushi,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+408630,5,3 dollars,Finding Nemo,tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0
+632091,5-6,8-12$ per tray,no movie,tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0
+601122,5,7,The Wolverine,Sake,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1
+602871,3,6 cad,Jiro Dreams of Sushi,Miso soup,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0
+520828,3,12,Isle of Dogs,Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0
+514199,7,12,,Tea,Sushi,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+389697,4,15,Ghibli movies,"Green tea
+
+Water",Sushi,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+714430,10,9 dollars,spiderman,orange juice,Sushi,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+612567,3,$5 ,Your Name,Matcha,Sushi,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+744468,3,$2 ,Bladerunner,Water,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+502722,Around 6-7 ingredients for a sushi roll with 3-4 simple ingredients. ,"In Toronto, around $12-15 for a single combo of sushi.",A Silent Voice (2016),Water,Sushi,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+519681,4,5,Everything Everywhere All At Once,Water,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0
+631125,6,15,Monsters Inc.,,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+606119,5,$1 ,Isle of Dogs,Tea,Sushi,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,0,1,1,0,0
+627252,3,$15 ,Monsters Inc.,Water,Sushi,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,0,1,0,0,1
+616568,2,3 dollars,jiro dreams of sushi,sake,Sushi,0,0,0,1,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+603838,8,20,Jiro Dreams of Sush,Green Tea,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+719735,"1. Rice
+
+2. Fish",$15 ,Jiro Dreams of Sushi,Hot or Iced Tea,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0
+608062,5,$15 ,Parasite,Water ,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+608704,5,$20 ,Finding Nemo,Wine,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0
+520383,"Not very many, but it depends. Around 4.","Depends on how many pieces are in a serving, but this food item is expensive.",I don't think of a movie when thinking of this food item,Sake!,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+603793,6,10,doraemon,ocha,Sushi,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,0,1,1,0,0
+603933,5-10,80 dollars,Jiro Dreams of Sushi,juice,Sushi,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+605519,4,10 dollars,Finding Nemo,Green Tea,Sushi,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0
+524803,"2, or 3+",$5 ,Tokyo Story (1953),Green tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+629712,4,20,Parasite,Water,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+627505,6,$11.00 ,Inception,Water,Sushi,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+526131,"I would expect it to have:
+
+* Seawead
+
+* Rice
+
+* Cucumbers
+
+* Salmon
+
+* Avacado
+
+* Possibly some sweet sauces",I would expect to pay about $9 per serving. This is based on how much I usually have to pay.,"I would associate it with movie series like ""Pleasant Goat and Big Big Wolf"", as that was one of the childhood shows I watched, from the time when we could sometimes go and eat out as a family.","I would pair this item with water. It is usually not dry or dehydrating so I don't usually drink much with it, but water is more than enough.",Sushi,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0
+607065,4,20,The Karate Kid,Wine,Sushi,0,0,0,1,0,1,0,0,0,1,0,1,0,1,1,1,1,0,1,0
+500077,20,$13 ,none,water,Sushi,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0
+633350,"5
+
+ ",12,Your Name,Green tea ,Sushi,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+601945,5,10 CAD,Wolf of Wall Street,Wine,Sushi,0,0,0,1,0,1,0,0,0,0,0,1,0,1,1,1,1,0,0,0
+629878,3 to 6,$8 to $20,Spirited Away (or any Japanese movie in general),Tea,Sushi,0,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,0,0,0
+712766,Around 3-6 ingredients,Around 8-15 dollars for one serving,Wolverine,Tea,Sushi,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+603664,2,9,Jiro Dreams of Sushi,Calpis,Sushi,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+840827,4,$20 ,Romance movie,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+604897,4,35,Food wars,Tea,Sushi,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+525422,4,15,,Water,Sushi,0,0,1,0,0,0,0,1,0,1,0,0,1,1,1,1,1,1,0,0
+602560,Maybe 3 to 4 ingredients. ,Somewhere in the late 20's or early 30's. Maybe 28 bucks. ,Some Japanese movie or some action movie. ,Maybe some cocktail like Gin Martini. ,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0
+738379,4-6,$10-$50,Jiro Dreams of Sushi,Green tea or water,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+622023,5,20,Wolf of Wallstreet,Coke Zero,Sushi,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0
+604770,4,9,Godzilla,no drink,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+608318,5-6,$8-12,Johnny English,Sake,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0
+626757,3,12 dollars,Fast and Furious: Tokyo Drift,Tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+745297,4,11,Karate Kid,Water,Sushi,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,0,0,1,0
+627599,3,$16 ,Scary Movie 4 (2006),Water,Sushi,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,0
+520037,4,10,Finding Nemo,Beer,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+632189,3,2,Jiro dreams of sushi,Water,Sushi,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,1,0,1,0
+627636,Minimum 3,Between $6 and $12,Monster house,Water,Sushi,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,1,0,0,1,0
+295428,"high quality raw fish, rice, vinegar, seaweed, sesame",$20 ,the big short,sake,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0
+228777,7,14,kill bill ,water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0
+609278,5,$12 ,The Little Mermaid,Miso soup,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0
+614089,3,25 CAD,Lost in Translation,Water,Sushi,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0
+607517,6,15,Recep Ivedik 2,Sake,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0
+714607,4,$4 ,Pirates of the Carribeans,Matcha,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0
+716650,"I would say the number of ingredients varies largely based on the complexity of one's order. However, if I had to generalize, I would say about 5 ingredients.",I would expect to pay upwards of $12 for one serving of this food item. ,The movie that comes to mind for this food item is the Big Short. There is one scene that is very vivid and eye-opening conversations when it comes to the fault of hedge funds during the 2008 crisis that was discussed over this food item.,I would pair water with lemon with this food item since it is usually eaten at a sit down.,Sushi,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,0
+497695,6,20,Crazy Rich Asians,Water,Sushi,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0
+496858,"The simplest sushi would contain 3 ingredients: rice, seaweed, and fish. But maybe a sushi that is more complex would have avocado, tofu, cucumber, crab. So anywhere from 3-7+ ingredients. ","Sushi is a bit pricy sometimes depending on the seafood, so maybe around $12-17. ","I watched the harry potter series with my friends while eating sushi, so I associate sushi with harry potter.",I would eat sushi with some bubble tea!,Sushi,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+608688,5,$15 ,"Jiro Dreams of Sushi, East Side Sushi, Finding Nemo",Tea,Sushi,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0
+604386,3,30,Jiro Dreams of Sushi,tea,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0
+628559,8,20,Spirited Away,Green tea,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+715152,9,25$,"Any japanese movie, and animes ",Bubble Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+604110,5,15,"Monsters, Inc.",Juice,Sushi,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,0
+629010,5,$10 ,Kill Bill,Lemon Water,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0
+605254,4,10,cloudy with a chance of meatballs,hot green tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0
+628990,5,$18 ,Jiro Dreams of Sushi,Soju,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0
+625295,9,$10.00 ,Spirited away,Water,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0
+603415,6-8,$8-14,Spirited Away,Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0
+635533,3,30,Jiro Dreams of Sushi,rice wine,Sushi,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+630389,3,20,Jiro Dreams of Sushi,Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+714901,Four,Thirty dollars,Bullet Train,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+629792,"5: rice, seaweed, fish, avocado, cucumber",$8 (a roll),monsters inc,sake,Sushi,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0
+629025,9,$20 ,squid game,water,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0
+524441,6,$15 ,Finding Nemo,Boba,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+389109,5,30 (unless we're talking like Monkey Sushi's BOGO offers which is really cheap for some reason...),Monster Inc,Jasmine or roasted green tea,Sushi,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+631216,5,20,na,water,Sushi,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,0
+738875,5,$8 ,Crazy Rich Asians,Milk tea,Sushi,0,0,0,1,0,1,0,0,0,1,0,0,1,0,1,1,0,1,1,0
+634669,4,$6.96 ,Jiro Dreams of Sushi,Sake,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+409940,2,15$,spirited away,miso soup,Sushi,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+399605,3,15,spirit away,barley tea,Sushi,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+721831,5,12,John Wick,Sake,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0
+835223,5,10,-,Green tea,Sushi,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0
+712938,3,17,Spirited Away,Calpis,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+395712,4 ingredients ,$15 - $20,Jiro Dreams of sushi,No drink.,Sushi,0,0,0,0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0
+603388,3,20 cad,jiro dreams of sushi,Oolong tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0
+617774,10,Anywhere from 5.99 to 25.99,Gran Turismo,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1
+289440,2,10, Lost in Translation,tea,Sushi,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0
+714503,2,10,short movie because I eat it fast,soybean milk,Sushi,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,1
+714893,5,$10.00 ,The breakfast club,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+601094,"8 ingredients (nori, rice, mayo, soy sauce, fish, cucumber, avocado, sesame seeds)",$13.00 ,Spirited Away,hot tea,Sushi,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0
+618150,3,$12 ,,"water, iced-tea",Sushi,0,0,0,1,0,1,0,0,0,0,1,1,1,0,1,1,0,0,1,0
+607944,4,15-20,Ponyo,Tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0
+629844,3,$15 ,Samurai Jack,Orange juice,Sushi,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+626482,4,20,Kung Fu Panda,,Sushi,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+609257,3,18$,Mean Girls,Water,Sushi,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,1,1,0,0
+717921,10,$20 ,Girl's Trip,Water,Sushi,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0
+181851,4,15,,water,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+629041,4,14 dollars,My Neighbor Totoro,tea,Sushi,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+604062,Two to three.,$2 for like a single piece of sushi?,Anime I guess,Green tea!,Sushi,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0
+716749,4 or 5,15-20 dollar,no,Miso Soup， tea,Sushi,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0,1,0,1,0,0
+633143,"Around 5 depending on the type of sushi you make. But for the average Sushi, I expect 5.",Around $10,Passengers(2016),Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0
+743828,5,7,Finding Nemo,Water,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0
+520861,4,20,Madagascar,Tea,Sushi,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0
+517019,3,7,Spirited Away,Beer,Sushi,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,1,0
+626779,"fish, rice, seaweed",$13 ,i dont know,none,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0
+611716,3,10,Bladerunner,miso soup,Sushi,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+193195,3,$20 ,Kill Bill,Water,Sushi,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0
+627530,5,$14 ,Koe No Katachi,Tea,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0
+626479,Really depends on the type of sushi but typically around 5 or so,$10 ,Isle of Dogs,Just water honestly,Sushi,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0
+624540,"rice, cucumber, crab, 
+
+3",20,talented,korea drink/japanese drink,Sushi,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+625315,2-7,$17 ,The Breakfast Club,Tea,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0
+601941,4,15,Crayon Shin-chan the Movie,Oolong Tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0
+723968,12 ingredients,within 15 dollors,Ratatouille,Nestea,Sushi,1,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,0,0
+715806,5,13,Dreams of Sushi,Water,Sushi,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0
+720045,5,11,Finding Nemo,Water,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+713585,5,30,Idk,Sake,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0
+611188,4,12,Spirited Away,Tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0
+606726,4,15,Crazy Rich Asians,Juice,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0
+629142,I would expect this food item to contain around 3 to 4 ingredients.,I would expect to pay around $14 for this food item.,I think of the movie Jiro Dreams of Sushi.,I would pair tea or juice with this food item.,Sushi,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0
+634825,3,$12 ,Your name,Tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+613409,"Fish, Rice, Vinegar. Total of 3",6,Memoirs of A Geisha,Water,Sushi,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0
+633224,5,$10.00 ,Kung Fu Panda,Water,Sushi,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+738850,5,$12.00 ,Masterchef,Tea,Sushi,0,0,0,1,0,1,0,0,0,0,0,1,0,1,1,1,1,0,0,0
+500470,At least 3,8.50 CAD,Nothing comes to mind,Water,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,0
+13183,4,10,Memoirs of a Geisha,Water,Sushi,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,1,0,0
+627169,5,$20 ,The Wolverine,champagne,Sushi,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,0,0,0
+229041,2-4,15-20 dollars,kung fu panda,tea,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0
+496344,3,4,Bullet Train,Oolong Tea,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0
+409723,7,12,The breakfast club,Sake,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,1,0
+630949,5,$4 ,The Godfather,Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0
+413014,"5-7, depending on what type of sushi",8-10$ for 5-8 sushis,"A Japanese anime movie, such as Spirited Away",Sake (Japanese rice wine),Sushi,0,0,1,0,0,0,0,1,0,1,0,1,1,1,0,1,1,0,0,0
+310438,4,15,John Wick 3,Sake,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+627430,9,10,Ponyo,Tea,Sushi,0,0,0,0,1,1,0,0,0,1,0,1,1,1,1,1,0,1,0,1
+526510,5,20,,water,Sushi,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0
+390823,3,$20 ,Finding Nemo,Tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0
+717116,4-7,$20-30,Lost in Translation,"wine, tea, sparkling water",Sushi,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0
+712143,4,8,monster,Sake,Sushi,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0
+612538,3,$9 ,Cars 2,Tea,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,1,1,0,0
+627539,4,7$,The Last Samurai,Tea,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0
+603812,2,20 Bucks,Kill Bill,Sake,Sushi,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0
+740568,3,$14 ,Cars,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+712702,3,10,Spirited Away,lemon tea,Sushi,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0
+519638,"Sushi Rice, Fish",$12 for a roll,Dune,Water,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+627800,1-5,20-Oct,Suzume,Tea,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+406863,5,13,Kung Fu Panda,Bubble Tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+726962,5,30,Detective Conan,coke,Sushi,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0
+628077,5,12,Big Hero 6,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0
+601693,5,$13 ,Shark Tale,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+517096,2 to 3,$10 to $30,Snowpiercer,Sake,Sushi,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,0,0,1,0
+606821,8,$20 ,Yakuza,Sake,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1
+455047,4,20,,"water, tea",Sushi,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+625576,8,12,Finding Nemo,Water,Sushi,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+747734,3-5,5-10 dollars,The Godfather,Soda ,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,1,0,0
+517064,I'd expect it to contain about 7-8 ingredients.,For a pizza slice I'd expect to pay $3-4 at most.,Teenage Mutant Ninja Turtles.,Root-beer.,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+387330,More than 15,$20 ,Wizards of Waverly Place Movie,7up,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+746750,3-10,$2 ,For some reason home alone is the first thing that came to mind,Pepsi,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0
+629285,4,$12 medium size pizza,home alone,Coke,Pizza,0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0
+743488,4,$5.00 for a single slice/meal,Spider-Man 2,soda,Pizza,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,1,1,0,0
+523710,3-8,$15-25,Home Alone,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1
+635179,6,$7.00 ,Avengers End Game,Sprite,Pizza,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+313562,8,$2 ,fast and furious ,crush ,Pizza,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,0,1,0,0
+712670,"I would expect it to have 3 ingredients:
+1. Dough
+2. Tomato Sauce
+3. Mozzarella",I would pay about 4 Canadian dollars a slice.,I think about the movie Ratatouille as it took place in Italy and Pizza reminds me of Italy.,I would pair it with a bottled Coca-Cola for the authentic western junk food combo.,Pizza,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0
+635627,7,$4 ,Rush Hour,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,1
+524485,10,7.5,Teenage Mutant Ninja Turtles,Coke,Pizza,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0
+632320,"Tomato, Beef, Onion",It's about 16 for a whole pizza.,Teenage Mutant Ninja Turtles,coke,Pizza,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,1,1,0,0
+633520,"Depends how fine-grain you're going. 
+
+ 
+
+Obviously we expect flower, water, salt and yeast for the dough (4)
+
+ 
+
+Then we have tomatoes, more salt, and some spices for the sauce (anywhere from 3-10)
+
+ 
+
+Then the toppings; depending on how many you'd like to add. So we're looking at anywhere from ~10-17 ingredients to make it from start to finish",anywhere from $5-$10,Cloudy with a chance of meatballs ,"Some kind of fizzy drink, like Crush. ",Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,0,1
+606905,7,14.99,ratatouille,pineapple fanta,Pizza,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0
+393424,7,4,Spider-Man 2,Coke,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+618333,"Flour for dough
+
+sauce
+
+cheese 
+
+two toppings 
+
+3 min to 7
+
+5 being optimal",10 canadian dollars ,Grown ups,Coca cola,Pizza,0,1,0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0
+628558,7,$10 ,Teenage Mutant Ninja Turtles. The turtles are famous for their love of pizza.,tap water or sprite,Pizza,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0
+613776,6,4 CAD,Teenage Mutant Ninja Turtles,Diet Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0
+317214,"I would expect there to be dough, at least one type of cheese, tomato sauce and some pepperoni. Ideally there would also be some onion and other vegetables. So overall I would expect 4 ingredients.",I would expect to pay 3 or 4 dollars per slice of pizza,I don't think of any movie. Pizza pairs well with any movie.,Any drink works well.,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0
+628093,"I would expect it to contain 5 ingredients.
+
+Dough, cheese, tomato sauce, some kind of meat, and some kind of vegetable.",$20 to $25.,Five Nights at Freddy's.,Nestea.,Pizza,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0
+411781,4,7,Spider-Man 2,Coke Zero,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+525567,6,5,Ratatouille,Water,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0
+634455,3 to 4.,4 dollars.,The teenage mutant ninja turtles.,Coke or Pepsi.,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+498848,13,3$,Eat Pray Love,Beer,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+638838,4,$4.29 ,"Rise of the Teenage Mutant Ninja Turtles: The Movie (2022)
+----------------------------------------------------------",Pepsi,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0
+411253,8,2,teenage mutant ninja turtles,nestea,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1
+410165,5,15,avengers,apple juice,Pizza,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0
+608554,8,5,Star Wars,Pop,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,1,1,1,0,0
+602394,"dough (flour, eggs, water) 
+
+cheese
+
+tomato sauce 
+
+3 ingredients ",$15 ,Home Alone ,Pop,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0
+743623,"6 Ingredients
+
+Dough, Tomato Sauce, Cheese, 2-3 Toppings such as Meat and Vegetables
+
+Additionally Creamy Garlic Dip is a recommended compliment to the pizza. ",$20 maximum for a large pizza filled with toppings such as Chicken. ,Spider-Man: Across the Spider-Verse,"Pop, such as Coke or Pepsi",Pizza,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,1,1,0,0,0
+87783,At least 3 ingredients.,$5 per slice.,Home Alone,Coca-Cola or Beer,Pizza,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,1,1
+632431,"Tomato sauce, cheese, dough, mushrooms, olives, chicken, pineapple ",15.00$,Ratatouille ,Coca Cola,Pizza,0,1,0,0,0,0,1,0,0,1,0,1,1,1,1,0,1,1,0,0
+744091,"Water, Yeast, Flour, Salt, Sugar, Tomato Sauce, Cheese so at least 7",For a single slice probably 6 dollars,Teenage Mutant Ninja Turtles,Water,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+519570,8-10,$6 ,Saving private ryan,Soda,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,1,0
+744484,15,$4 ,Home Alone,Coke,Pizza,0,1,0,0,0,1,0,0,0,1,1,1,0,1,0,1,1,1,0,0
+508149,5,19,Ratatouille,Water,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0,1,0,1,0,0
+524992,8,4, the avengers ,coca cola,Pizza,0,0,0,1,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,1
+413570,5 ingredients,$8 ,Spider-Man 2002 starring Tobey Maguire,Coca-Cola,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+306207,7-12,$20 for 1 pizza,Back to the Future,coke,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,1
+634468,3,$30 ,Back to the future,Soda/Pop,Pizza,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,1
+522205,From 3 to 7,$5 ,Spiderman,Sprite,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0
+5978,6,4 dollars,Mr deeds,Water,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,0,1
+742611,"At least 3:
+
+1. Tomato Sauce
+
+2. Cheese
+
+3. Dough 
+
+Oftenly also:
+
+4. Meat (Sausage, Bacon, etc)
+
+5. Leaf (Basil Leaf, Oregano Leaf)
+
+6. Olive Oil","Depends on the inch of the pizza, usually based on my uber eat experience, I expect 12$-20$ for a whole pizza.",BBC Food channel's movies and documentaries. ,"Pops, Orange Juice, Water.",Pizza,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1
+631198,7,20,Green Book,water,Pizza,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,1,1,1,1,0
+606150,Five.,8 CAD.,Little Italy.,Coca Cola.,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0
+313577,The dough would take probably 3-5 ingredients and with the toppings probably another 4-8 including cheese and tomato sauce. So an average of 10 ingredients.,$7 for a slice on average,Spider-man,coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,1
+629700,"3 core ingredients (cheese, tomato sauce, flour), and a variable number of toppings. ",6 dollars,Cloudy with a chance of meatballs,Water,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,1
+630928,5,15,Cloudy with a Chance of Meatballs,apple juice,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+607286,20-15,"For fast food chains, about $10/person.
+For dine-in restaurants, about $20/person.",Murder Mystery.,Sprite.,Pizza,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,1,1,1,0,1
+607609,"8
+
+Flour, sugar, starch, salt, water, tomatoes, mozzarella cheese, olive oil.",$2.50 ,Interstellar,Soft Drink,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0
+522890,4,10$,Home Alone. Or action movies,"Sprite or any soft drinks as such. Coke, Pepsi, etc.",Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,1,0,0
+630227,3+,$20 ,The Super Mario Bros. Movie,Coca Cola,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0
+603607,4,3,Mystic Pizza,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,1,0,0
+617029,5,20,Scott Pilgrim vs. the World,coke,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,0,1,0,1,0,1,1,0
+617462,4,$5 ,Spider-Man 2,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0
+633001,10,5,Ratatouille ,Iced tea,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,1,1,0,0,0
+634690,5,$6 ,home alone 2,pepsi,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,1,0,0
+630198,4,5,the ritual,coca-cola,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1
+520507,7,$4 ,,Ginger ale,Pizza,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,1,1,1,0,0
+635065,3,7,Breakaway,Soda,Pizza,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1,0
+613209,3,5,Homealone,Pepsi/Coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+605452,6,15,Uncle Grandpa,Soda,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+24137,7,20,comedy,coke,Pizza,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0
+518809,5,2,none,fanta,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,1
+634646,4,Assuming one serving means one slice: $3,Harry Potter,Coca Cola,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+508156,6,$3 ,"eat, pray, love",Coca-Cola Zero,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,0,1,1,0,1,0,1
+632909,10,$7 ,spiderman,canada dry,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,0,1,0,0,1,1,0,0
+414734,"at least 4， cheese,olive, papper, Ham piece",lower than 15$,no movie that I can think,obviously cola,Pizza,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+630250,"flour, water, yeast, salt, oil, tomato sauce, cheese, pepperoni, vegetables.",6 to 9 dollars,ratatouille.,Sprite,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+411810,anywhere from 3 to as much as you like,$2 ,Toy Story,Pop with ice,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,1,1,0,0
+214145,10,10,shrek,gatorade,Pizza,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0
+628986,4,16.99,Captain America,Coke,Pizza,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+211158,7,12,Home Alone,Soda,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+507382,4 to 6 ingredients,5 Dollars,Spiderman 2,Coca Cola,Pizza,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+522877,Around 5 ingredients ,$6 ,Pirates of the Caribbean ,ginger ale ,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+635024,"A minimum of 3 but there can be more, up to 7 usually.",Around 3-5 dollars depending on the quality.,"Monsters, Inc.",Soda.,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,0,1
+602845,"The number of ingredients in the food is differs and depends on the choice of the customer. However, the food can have between 4 to 10 ingredients.",You can expect to pay between $15 to $30 depending on the size.,"I think of the movie named ""Chef"".",I like Coca Cola and would pair it with this food item.,Pizza,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0
+519822,"dough, flour, tomato sauce, pepperoni, cheese",$15-18,The Boy and the Herron,Coca-cola,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,1,1
+600849,4,$6 ,Superbad,Ginger ale,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+605148,8,Probably from $3-7. ,Home Alone,"Any soda: Pepsi, Coca Cola, Crush, Canada Dry",Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0
+631600,"For regular cheese pizza, one will need the following ingredients:
+
+1. Flour
+
+2. Water
+
+3. Tomato Sauce
+
+4. Cheese
+
+5. Yeast
+
+ 
+
+So in total, five ingredients","For one slice, I would expect to pay around $3.
+
+ 
+
+However for a whole pizza box, it would depend on the size. If small, then around $10. If medium, then around $12. If large, then around $15",Teenage Mutant Ninja Turtles vs Batman. The TMNT love pizza and they eat it with batman at the end of the movie.,Sprite. Or perhaps any pop drink would go well with pizza. ,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,1,0,0
+716142,"4 ingredients - dough, cheese, toppings, and pizza sauce.",$20 ,Home Alone,soda,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+525853,3 to 6 ingredients,10 to 20 dollars,Spider-Man 2,Coca-Cola,Pizza,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,1
+835124,5,$7 ,Teenage Mutant Ninja Turtles,Coke,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,0,1,1,1,0,0,0,0
+634764,7,$10 ,The Grinch.,Coke,Pizza,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,1,1,1,1,1
+630117,"At least 3
+
+ the dough, tomatoes sauce, and cheese",Around 15 for the most basic pizza,,Pop drink,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+631531,6-8,~$5,back to the future,pepsi/water,Pizza,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0,1,1,1,0,1
+714062,At least 4,Around 20 CAD,The Hangover,Coke,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,0,1,1,1,0,0,0,0
+629156,7,10,Teenage Mutant Ninja Turtles,Soda,Pizza,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+498563,"9: Flour, Levain (at peak) or instant yeast, water, salt, olive oil, tomatoes, mozzarella, basil",$12-20 depending on size,Home Alone,Water,Pizza,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0
+625319,zero to four,2-4$ ,Teenage mutant ninja turtles,Soda or water.,Pizza,0,0,1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,0,1
+723931,five ingredients,5 dollars,spiderman,coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+526497,6,$6.00 ,Set it up,Coke ,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,1
+630999,5,20 dollars,,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,1
+97339,5 or 6 ingredients,$10 ,Spiderman 2,Coke Zero,Pizza,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0
+631909,3-5,$5 ,"Mufasa, The Lion King",Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+625349,"4 toppings
+
+3 base ingredients (dough, cheese, sauce)",$20 ,Dune,sprite,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,1,1,0,1,0
+632299,A minimum of 3.,One slice should be no more than 5 dollars. ,Cloudy with a chance of meatballs,Soda,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+616634,9,$4 ,The Lego Movie,Pepsi,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,1,0,0,1,1
+616836,5,$3 ,Ratatouille,Diet Coke,Pizza,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0
+609116,5,$4 ,The Big Lebowski,Soda,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+626789,5,6,,diet coke,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+504599,5-10,"I think the price of a full pizza should be 20 CAD. 
+
+The price for a full adult male to eat should be 10 CAD",Fight Club,Diet Pepsi,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,1,1,1,0,0
+632684,4,2,Teenage Mutant Ninja Turtles,Coca Cola,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+522967,3,12,spiderman,cocacola,Pizza,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1
+632893,10,$15 ,Transformers,Pepsi,Pizza,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+632156,"I would expect this food item to contain at least eight ingredients, taking a base recipe for cheese pizza as an example: water, sugar, yeast, oil, salt, flour, tomatoes, cheese.","Taking one slice as one serving, I would expect to pay $5.",I don't have a movie I think of when I think of pizza.,I would pair coke with pizza.,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,0,0
+603582,15,5 CAD,Cloudy with a Chance of Meatballs,Coke with ice,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+626754,"At the bare minimum, pizza dough, cheese, tomato sauce. (3 Ingredients)",$15 ,Home Alone,Coca Cola,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+298481,7-15,$8-$24,Interstellar,Coke Zero,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+631583,6,18,Futurama: Bender's Big Score,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,0
+718026,5,15,teenage mutant ninja turtles,pepsi,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0
+616713,7,15 CAD,The Italian Job,Water,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+602533,5,15,Godfather,Coke,Pizza,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0
+522345,"This food should contain at least 3 ingredients, but could include as many as the user wants. However, any number over 6 ingredients weighs the slices down too much and the pizza is less fun to eat.","For one whole 10-inch pizza I would expect to pay $10, but for a single slice from a 16-inch pizza I would pay $6",Teenage Mutant Ninja Turtles,Soda,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,0
+629758,5,around 13 dollars,Back to the Future Part 2,diet coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,1,0
+631496,"At a bare minimum, 3 - dough, cheese, and salsa.
+
+At a maximum, around 4-5 toppings on top of this.",$5 ,Spiderman,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+491374,3-20,10-30 Canadian dollars,Spider Man,Coca-Cola,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+632051,6,2.5,Home Alone,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0
+409930,5,$10 to $20,"any kind really, probably something more relaxed for leisure",water,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+632975,5,4,Monster House,Coke,Pizza,0,1,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,1,0,0
+407221,5,$25 ,Spiderman,Pepsi,Pizza,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0
+204508,8,$5 ,Cloudy with a Chance of Meatballs,sprite,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+618700,5,10,the godfather,soda,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+627792,At least three ingredients.,5 CAD.,Spider-man 2.,Pepsi.,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0
+712054,3,$16 ,Harry Potter,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+631881,Around 5–10,$2 – $5,Home alone because Kevin orders an entire one for himself.,"Soda (i.e. Coke, Pepsi, etc.)",Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+716188,"Tomato sauce, cheese, ham, pepperoni, pineapple, dough",$25 for 12 inch.,Italian movie,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1
+628744,6+,$10-20,TNMT,Coca Cola,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0,0,1
+604132,5,8,Ratatouille,Soda,Pizza,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,1,0,1,0,0
+629807,3,5 dollars,Ratatouille,Water,Pizza,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,0,0,0
+741428,5,$8 ,,Pepsi,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+633024,6,5,N.A. (I only watched a few movies so I cannot think of any movie related to Pizza),water,Pizza,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0
+631221,I would expect between 3 and 6 ingredients.,I would expect to pay $4 for one slice of pizza.,Cloudy With a Chance of Meatballs,A soda,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+601983,5,5,Home Alone,Coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,1,0,0
+603007,"Flower, Yeast, Water, Olive Oil, Tomato, herbs, cheese, pepperoni.
+8 Ingredients",3 dollars,Teenage Mutant Ninja Turtles ,Iced Tea,Pizza,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+601217,5,3 CAD,The Godfather,Diet coke,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,1,0,0
+629221,7,$15 ,Teenage Mutant Ninja Turtles,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+634705,8,$4 ,The Mario Movie,Orange Crush Soda,Pizza,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,0,1,1,0,0
+630070,14,$10 ,Spider-man 2,coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1
+630006,6-20 ingredients,$20 ,Home Alone,Coke,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1
+629072,6,$4 ,Cloudy with a chance of meatballs,Soda,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,0
+630044,I think this food item 7 ingredients.,I expect to pay 4 dollar with tax.,Cloudy with a chance of meatballs,Diet pepsi.,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+626026,6,4$,ratatouille.,sprite or juice.,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,0
+520303,"Cheese, Pineapple, bacon, sausage, onions, tomatoes, paparoni",20,The Godfather,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+630972,Probably like 10,4 bucks,Cloudy with a chance of meatballs,Soda,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,1,0,1
+630948,3-4,15,Teenage Mutant Ninja Turtles,soda,Pizza,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0
+626778,4 ingredients,"(As in one slice) $3
+
+(As in one small pizza) $10",Home Alone,Coke Zero,Pizza,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,1,1,1,1,1
+631181,4,4.4,The Hangover,coke,Pizza,0,0,0,1,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0
+633541,8-4,15,The Dark Knight,Nestea,Pizza,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0
+630098,"3 ingredients,  
+
+* Pizza dough
+
+* Tomato sauce
+
+* Mozzarella cheese",5 dollar.,Teenage Mutant Ninja Turtles,Coke.,Pizza,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+629959,3-6,5 dollars,Ratatouille ,Water,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+633097,8,$5 ,American Pie,Cola,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1
+605290,#NAME?,$5/serving,Mean Girls,Sprindrift,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0
+629869,5,$2 ,Friday,Diet coke,Pizza,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+632868,For a classic cheese style it would be 3-4 ingredients. For typical styles around 7-8.,"One medium serving, it would be expected to pay around $20.",Home Alone is the first movie that comes to minds. Im referring to the scene were the whole family order 10+ boxes of pizza and their trying to see who is going to pay.,"Probably a fizzy drink, ideally coca-cola. ",Pizza,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+209691,I would expect this food item to contain 5 ingredients.,I would expect to pay $10 for one serving of this food item.,I think of spiderman when thinking of this food item.,I would pair with this food item with iced tea.,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1
+600915,5,20,Toy Story,Water,Pizza,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+525420,5,$15 ,Ninja Turtles,Coke,Pizza,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,1,1,0
+414710,7 ,$2.50 CAD,Garfield,Pepsi,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,1,1,0,0,0
+629985,10 ,$3 ,Pirates of the Caribbean ,pepsi,Pizza,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0
+523128,6,9,This is the end,Sprite,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1
+727410,6,$25 ,Karate Kid,Water,Pizza,0,1,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+616457,4-8,$10 ,Goodfellas,coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,1
+206487,"Four ingredients: Dough, sauce (usually [tomato sauce] (https://en.wikipedia.org/wiki/Tomato_sauce)), cheese (typically [mozzarella] (https://en.wikipedia.org/wiki/Mozzarella)) ",12 dollars for a 4people pizza,Ratatouille,Any soft drink,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,1,0,1
+68949,"If we include making the dough, 10 ingredients are needed. If not, 5 (depending on the number of toppings).","For a box, approximate $12-$17, depending on the size ordered.",Teenage Mutant Ninja Turtles,A soda,Pizza,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0
+419835,5,5,Cloudy with a Chance of Meatballs,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,1,1,0
+745732,">=3 More than three. dough, sauce, cheese, some meat or vegetable, or pineapple.",12 to 20 dollars.,Ready Player One. There is pac-man inside and pizza looks like one.,coca cola. ,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0
+543739,4,4,Teenage Mutant Ninja Turtles ,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+410380,3,8,Spider Man,Soda,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1
+385307,the basic would be about 8 ,3  ,ninja turtle ,coke ,Pizza,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+634566,8,15,The Gentlemen ,Martini Cocktail ,Pizza,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+625818,I would expect 5 ingredients if we make our dough from scratch.,I would expect to pay 3.95$ for a slice.,Teenage mutant ninja turtle,Coca-cola,Pizza,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+631164,"Flour, water, eggs (idt there is yeast), salt, tomatoes, cheese, + n many additional ingedients.
+
+Atleast 6.
+
+ ",$5-$10,"Rattatouie, even though there isnt pizza.",Water,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,0
+603130,4,$4 ,The Godfather,Pepsi,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,1
+229211,I would expect this food item to contain about 3 to 7 ingredients,$5 ,Pulp Fiction,Gingerale (Canada Dry),Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,0,0,1,1,0,0,0
+626849,4,$5.00 ,Teenage Mutant Ninja Turtles,Pop/Soda,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+634650,10,$5 for a slice of pizza ,Spiderman,Coke,Pizza,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,0,1,0,0
+632125,5,$3 ,cloudy with a chance of meatballs,Sprite,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,1
+626812,5-10,20,no movie,ice tea,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+631109,5,$3 or $3.50,I think of the show Gilmore Girls. They're always eating pizza. ,"Soda, personally Sprite. ",Pizza,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0,0
+716766,"5-10, including the dough, sauce, cheese and toppings",5 for each piece,spiderman,coca-cola,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+494103,8,5 dollars,Ninja turtles,Coca cola,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,0,1,0,1,0,0,0,0
+628102,"three; cheese, tomato sauce, dough",$4 ,Happy Gilmore,Water,Pizza,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,1,1,1,0,0
+634683,5,3 dollars,Ratatoullie,Coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,0,0
+517774,5,6,Inception,sprite,Pizza,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+408898,At least 3,2 dollars,Spiderman 2,Water,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+603189,6,4,back in action,Diet Coke,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,1,0,1
+606857,4,3.50 CAD,Teenage Mutant Ninja Turtles,Coke,Pizza,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,0,0,0
+523080,4,3 dollars,masterchef,soda,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0
+631014,5,$5 ,Spiderman 2,Fanta,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0
+503957,4,$11 ,Home alone,Coke,Pizza,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0
+524890,9,$5 ,Spider-Man 2,Sprite,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,1,0,0
+717411,7,$3 ,Italian movie,soft drink,Pizza,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,1,0
+525311,10,$10 ,Die Hard,Soda,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,1,0,0
+630967,5,5,The Social Network,Red Wine or Coca Cola,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0
+604969,8,$5 ,Neverending Story,Soda,Pizza,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0
+524480,10 ingredients,$8 ,Maze Runner,Mountain Dew,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+630121,around 15 ingredients,around $5,Home Alone,soft drinks,Pizza,0,0,1,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1,0,1
+629615,mandatory ingredients: 6,5 dollars,Diary of a Wimpy Kid: Rodrick Rules,Sprite,Pizza,0,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,1,0,0
+634977,4,20,Spider Man 2,Coca Cola,Pizza,0,0,0,0,1,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0
+630823,6,8$,Transformer,coke,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+632228,5 to 6,2 to 3 dollars,Teenage Mutant Ninja Turtles ,Coke,Pizza,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0,1,0,0
+504548,4,$5 ,Spider-Man 2,Coca-Cola,Pizza,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,1
+522477,"Around 9 to 10 ingredients, such as wheat flour, oil, water, sugar, salt, yeast, tomato sauce, cheese, and some meats.",Around $5.,"When thinking of pizza, it would reminder me of Italy, and the first movie that came to mind was Malena.",Coke.,Pizza,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,0,1,1,1
+523461,7,$3 ,Spiderman,Soda,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+312640,"At least 3 with the dough cheese and sauce, afterwards is user preference for anywhere between 3-8 toppings being standard",about 2 dollars for a slice but for a full pizza depending on the size between 12-24 dollars,Anchorman,Coke a cola,Pizza,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0
+854745,4,$5 ,Friends,Soda,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,1,0,0,0,0
+711854,"flour, pepperoni, bacon, cheese, chicken, some sauce
+6 ingredients","For a whole pizza with 16 inches, $30",Zootopia,Coke,Pizza,0,1,0,0,0,0,0,1,0,1,1,0,1,1,0,1,0,0,0,0
+739254,around 5 to 10 ingredients.,4 dollars,Home Alone,Sprite,Pizza,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+621555,"Well I guess if we're counting the ingredients for the dough, probably at least 6 - 7 for a cheese pizza, more for anything more complex.
+
+ 
+
+If not counting ingredients for dough, then a cheese pizza has 3: dough, sauce, and cheese"," 5$ for a slice of generic cheaper pizza, 15-20 for a whole pizza chain pizza size medium and 15-30 for a whole smaller more gourmet pizza.",I don't watch movies.,Ice tea???? Or fountain drinks in general. I like Dr. Pepper,Pizza,0,0,1,0,0,0,1,0,0,1,0,1,1,1,1,1,0,0,0,0
+602482,"Around 4-5: Dough, sauce, cheese, toppings.
+
+(However, it depends on how you classify ingredients; for instance, you could divide sauce into tomatoes, salt, olive oil, etc).",4-6 dollars,"To be honest I can't really think of any movie
+
+But if I have to answer I would say Minions: Rise of Gru",Soda,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1
+630416,About 6,"$6 + tax for 2 slices, so 6","Ratatouille, because the rat is Italian and Italians like pizza","Water, because water is good for you",Pizza,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+505458,3,15,,Soft drink,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+296589,"About 4 such as milk, flour to make the dough, tomato sauce, and cheese to make a foundational cheese pizza",Around $2-3 give or take,Terminator,"Pop, soda, alcohol, or water",Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+604826,"I expected to have 6 ingredients.
+
+ 
+
+flour
+
+tomato sauce
+
+cheese
+
+oil
+
+yeast
+
+Basil
+
+ ","I will expect to pay 6 dollars for one serving of this food item.
+
+ ",I think about about the movie Home Alone.,I will pair this food item with sparkling water.,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+387820,5 - 6 ingredients. ,,Men in Black,Diet coke,Pizza,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+603612,7,15,Teenage Mutant Ninja Turtles,Water,Pizza,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0,1,0,1,0
+712252,13,$4 ,Cloudy with a Chance of Meatballs,Coke,Pizza,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,0,1,0,0
+742226,"The number of ingredients vary depending on what ""version"" of the food item you're making, but generally it has at least 3",$5-$10,Teenage Mutant Ninja Turtles,Soda,Pizza,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0
+712771,More than 4,20,Green Book,Orange juice,Pizza,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+746466,4,24,The DaVinci Code,Ginger Ale,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+601737,"flour, oil, cheese, tomato sauce, pepperoni, so 5 ingredients.",5 dollars,action movie like mission impossible,coke,Pizza,0,0,0,1,0,1,0,0,0,1,1,0,0,0,1,1,0,0,0,0
+631902,3,$4 ,Spider-man,Soda,Pizza,0,1,0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,0,0,1
+312320,"dough
+
+pizza red sauce
+
+onions
+
+garlic
+
+pepperoni
+
+bacon
+
+hot peppers
+
+green peppers
+
+mushrooms
+
+ham
+
+pineapple
+
+double mozzarella cheese",if one serving means 1 slice = price approx for slice = $4,I think of the Ninja Turtle movies when thinking of pizza,i like Coke Cola the best with this pizza,Pizza,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1
+519986,7,4,"Crazy, Stupid, Love",Coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0
+626771,"I would expect this food to contain multiple ingredients, but only a minimum of three elements. That means that it would take multiple ingredients to make a single element, i.e flour, salt, olive oil, yeast and other ingredients to make dough, where the dough is one element that is comprised of several ingredients. In terms of numbers, I would expect about 7-15 ingredients to make this food item.",I would expect to pay between $2-5 CAD for one serving of this food item.,I think of the movie Little Italy. The entire plot revolves around two individuals who are competing in a restaurant business where their primary product is this food item.,"I would pair this food item with a soda of choice. For me, that would be Diet Coke. I am also a fan of pairing this food item with apple juice.",Pizza,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1
+407257,6,3,Teenage Mutant Ninja Turtles,"Soda
+
+Pop
+
+Coke",Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+626883,4,"Around $3-4 per slice. For a full pizza, around $1-2 dollar per inch.",The Hunger Games,Water,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+727339,"At least 5:
+
+* Flour, yeast, salt, tomato sauce, cheese",15$ for 1 whole pizza (8 slices),Cloudy with a Chance of Meatballs,Sprite,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,1,0
+631448,At least 4-5 ingredients,"For a whole pizza around 11 dollars, and for one slice I expect around 1.5 dollars",Ratatouille,"Coke/Diet Pepsi, although I would literally have to eat healthy for the next straight 2 weeks.",Pizza,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1,1,1,1,0,1
+634885,5,$4 ,Luca,Water,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0
+619932,Around 6-8 depending on the number of toppings.,$5 ,Any movie set in New York,Soda,Pizza,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,1
+601986,8,one slice for 3.45$,Home Alone,Milkshake,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+631141,"4 for the dough, 3 for the toppings, total 7",$4 ,Home Alone,Pepsi,Pizza,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,1,0,0,1,0
+631069,10-15,$6 ,Home Alone,Soft drink (coke/pepsi),Pizza,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+634508,7,$3 ,Grown ups,Coke,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,1,0,1,0,0
+206744,"10 ingredients
+
+flour, yeast, water, oil, herbs and spices, pizza sauce, cheese, any 3 toppings",$5 ,Spider-Man 2,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0
+498213,at least 5 ingredients for a normal standard pizza,similar to what Costco pizza price is and as big of that portion. around 2.7 cad for 1.5 piece (pretty big),"im thinking of cartoons and mostly western based cartoon. Though, I can't think of anything specific. But mostly western cartoon movies.","soda for sure, personally Diet Coke.",Pizza,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+627496,8 ingredients,4.25 dollars,Home Alone,Coke,Pizza,0,0,1,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0
+629659,8,12$,Toy Story,Kraken Spiced Rum,Pizza,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0,0,1,0
+630190,I would expect this food to contain 4-6 ingredients.,I would expect to pay 5$ for one serving.,"I think of Italian mobster movies, like the Godfather.","Iced tea, or soda.",Pizza,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,0,0
+401586,10,3.5,Home Alone,diet coke,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0,1,0,0,0,0
+629263,8,$3 ,Teenage mutant ninja turtles,Diet Pepsi,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+631678,5,$5 ,Transformers,Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0
+411681,3-4,$6 ,Spiderman (with Tobey Maguire),Pop,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+518733,5-6,5 dollars,spiderman 2,coke,Pizza,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0
+630378,7-10,$5 ,Home Alone 2: Lost in New York,Pepsi,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,1,1,1,1,0,0,0,0
+631142,5 Ingredients,$5 per serving,Spider-Man,Ginger Ale,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,0,0,1,1,0,0,0,1
+519976,"Flour
+Egg
+Milk
+Tomato Sauce
+Yeest",5 dollars.,Goodfellas. (There is a restaurant that sells pizza and is goodfellas themed),Water,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1
+604991,9,5,Toy Story,Ginger Ale,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,1,1
+522483,"Pepperoni, cheese, dough",$10 ,No movie,Water or juice or Ramune soda,Pizza,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+629723,4,$8 ,Wayne's World,Diet Coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0
+387522,7,15,Teenage Mutant Ninja Turtles,Coca Cola,Pizza,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0
+613484,8,$3.00 ,Avengers: end game,Coke,Pizza,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0
+388729,"Typical food items usually include around 8-14 ingredients. For example, even the simplest French dish like a creamy vegetable stew requires six main ingredients: potatoes, broccoli, carrots, butter, salt, and parsley. Similarly, a typical Chinese stir-fry often involves a variety of components, including a primary ingredient (like chicken or tofu), supporting vegetables (such as bell peppers or onions), seasonings (like soy sauce, oyster sauce, sugar, and salt), and additional aromatics (such as garlic, ginger, or scallions). Whether it's Western or Asian cuisine, the number of ingredients often depends on the complexity of the dish and the layering of flavors.","it depends on. For instance, if the dish is quiet complex, I may would like to pay more for it. But In average, I would expect to pay around 20 dollar.","It sounds like you're referring to the movie Ratatouille! It’s a Pixar animated film about a rat named Remy who dreams of becoming a great chef despite being a rodent in a profession dominated by humans. The story is set in Paris, and it beautifully blends themes of passion, creativity, and perseverance in the culinary world. Let me know if this is the one you're thinking of!",I would like to take fruit team when I have a meal !,Pizza,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+494373,5-6 ingredients,15-20,spaghetti with a chance of meatballs,coke zero,Pizza,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0
+630977,6 ingredients,"5 per slice
+
+but 20 for a whole pizza",No movie,DIp or Pop,Pizza,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+621982,5,10 dollars,man in black,coke,Pizza,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+605537,6,8,Ratatouille,diet coke,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0
+607073,3-4,3-4 dollars,sci-fic type,pop drinks,Pizza,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+624443,5,$3 ,Teenage Mutant Ninja Turtles,Soda,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0,0,0
+718089,5 to 7,$5 ,Toy Story ,Coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,1
+622727,"At least 3 or more depending on the toppings. The bare minimum would be: dough or flatbread, tomato paste, cheese.",Between $2 to $4 for one slice.,Home Alone,Coca-Cola or water,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,1,1
+609617,"4 Base Ingredients: Flour, Water, Tomatoes, Cheese",Around 3$ is a fair price,Breaking Bad,Coca Cola,Pizza,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1
+526064,8,$2.50 ,Teenage Mutant Ninja Turtles,Soda,Pizza,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,0,1
+609179,6,5,Teenage mutant ninja turtles,coke,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0
+627638,"It really varies depending on the type of pizza and toppings that are chosen, e.g. a simple cheese pizza is usually made up of 3 ingredients (dough, sauce, cheese), whereas a deluxe pizza could have something like 10 ingredients.
+
+Note: this is assuming we are not making anything from scratch, i.e. the pizza dough counts as one ingredient, the sauce counts as one ingredient, and so on.",About $4.,Teenage Mutant Ninja Turtles.,A soda or iced tea - I personally like to choose iced tea over soda.,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0
+411117,4,$6 ,Do The Right Thing,Coca-Cola,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,1,0,0
+634430,4,$3.00 ,Deadpool,Pepsi,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0
+631711,"Three: Bread, tomato sauce, and cheese.",$10 ,Ratatouille,Coke,Pizza,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,1,1,1,1,1
+606010,i expect it to contain about 3-4 ingredients. I mean 3 of them need to be present for it to be what it is but I like it topped up.,ideally like a 1$ but I expect to pay around 3-7$. USD,I actually think of the series breaking bad and that famous scene where walter flips out.,"Cola, but ill probably drink water.",Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+631436,"A simple pizza should have 5-7 ingredients. For clarity on the topic, I will just reply with 6.","One slice should be $3, unfortunately the school does not see it this way and overcharges us for $4-$5 per slice. For clarity on the question, the answer should be $3. ","I think of the movie ""Cloudy with a Chance of Meatballs"" because I associate pizza with popular Italian cuisine, and meatballs is Italian cuisine. ",I would pair Pepsi with Pizza.,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+633712,4,15,Spider-Man 2,Water,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+609556,7,5 dollar,Ratatouille,Coke,Pizza,0,0,1,0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,0,1
+520090,4,$5 ,Space Jam,Coca-Cola,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0
+602234,"6 total. Ingredients include dough, cheese, tomato sauce, and about 3 toppings depending on the consumer.","For one serving, I expect pizza to cost about $10. That's the economy for you.","When eating pizza, I think of the movie ""Shrek 2"".",I would pair chocolate milk with pizza. Mmmm... chocolate milk...,Pizza,0,1,0,0,0,1,0,0,0,1,0,1,1,1,1,1,0,1,0,0
+741592,12,2.99,Home Alone,Soda,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+628547,9,$5 ,Ratatouille,Coca cola,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,0,1,0,1,0,0,0,1
+501513,4,15,Friends,Nestea,Pizza,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+630929,6,$2 ,spiderman,soda,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0
+617379,10,$5 ,The spongebob movie (2004),Dr. Pepper,Pizza,0,0,1,0,0,0,0,1,0,1,0,1,1,1,1,0,0,0,0,1
+617310,7,3.99,Italian Jon,Coca-Cola ,Pizza,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+495424,5,$5 ,Ratatouille,Canada Dry,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+622787,5,4,spiderman 2,gingerale,Pizza,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1
+631716,10,"Slice - $5
+
+Pizza - $20",Spider Man 2,Coca Cola,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,0,0,1,0,0,1,1
+741658,"Flour, Oil, Vegetables, Meats.",less than 5 dollars per piece.,Ratatouille,Sprite,Pizza,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+620745,20-15,$10-$15,Diary of a Wimpy Kid,Pop,Pizza,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1
+611932,10,$8 ,Home Alone,Soda,Pizza,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0
+635602,"If you're making it from scratch, it could take up to 10 ingredients, but if the base is premade, it could take 4-5 ingredients.",Entire thing can be around $14-24 depending on its size,I think of the movie Chef(2014) as it was very food-related and had a lot of oven-baked goods.,"Soda - coke, sprite, crush, etc.",Pizza,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0
+619892,10,$16.00 ,Teenage Mutant Ninja Turtles,Pepsi,Pizza,0,0,1,0,0,0,0,1,0,1,1,1,1,1,0,1,1,1,0,0
+529289,8,$10 ,Step Brothers,Coke,Pizza,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+630738,9,5,rush hour,pop,Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+524766,10+,15,Idk,Pop drink,Pizza,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,1,1,1,0,0
+522148,3-10,4,home alone,cola,Pizza,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0
+601547,at least 3,$15 each box,horror movie,coke,Pizza,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0
+631046,12 to 13 ingredients,10,The Godfather,"Pepsi, Coke",Pizza,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,1,1,1,0,0
+66222,8,13,Garfield,Zero sugar coca cola,Pizza,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0
+603182,10 ingredients,20 dollars,Ninja Turtles,Soda,Pizza,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,1,0,1
+632117,"I would expect 4 toppings normally: dough, tomato sauce, cheese, and typically another topping like pepperoni or something else. Cheese pizzas are very common too, so 3 toppings is also a good answer.","If you buy a whole medium pizza it will cost about 12 CAD in Toronto, depending on the place you get it from. So a single ""serving"" or slice of this will be about 1 CAD. It depends on what is meant by serving.",Ratatouille.,"Soda like Coke, Sprite, Fanta, Crush, or Ginger Ale.",Pizza,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0
+630209,more than 5,$20 ,SpongeBob,Coke,Pizza,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+413395,6-8,25-Dec,Marvel Movies,Coke or Juice,Pizza,0,0,1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0
+386750,6 to 10 ,12 to 14 dollars,,A glass of water,Pizza,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+617178,"I would expect this food item to contain, at minimum 5 ingredients. The amount of ingredients needed varies depending on preference, but I don't think it would have more than 17-20 ingredients. On average, I would expect it to have 10 ingredients.",5 dollars.,The Princess Diaries,I would pair this item with soda.,Pizza,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0
+630128,3 to a finite amount more,$2 per serving (a slice among 6),Little Italy,Any soft drink,Pizza,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,1
+628736,This food item can contain anywhere from 3 to 20+ ingredients depending on how many toppings are desired. Pepperoni is a common topping.,A couple of euro.,"Toy Story. The restaurant that the green aliens come from serve it. The name of the restaurant is an alliteration, with the last word of the name being “Planet”.",Water because cheese is very salty.,Pizza,0,0,1,0,0,0,0,0,1,1,0,1,1,0,1,1,1,1,0,1
+747734,10,12-20 dollars,Deadpool vs Wolverine,smoothie,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,0,1,1,0,0
+517064,Around 9.,I'd expect to pay around $13-16 for a good portion.,I don't think of any movie.,Water.,Shawarma,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0
+387330,5,$10 ,The Dictator,Sprite,Shawarma,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+746750,5-7,$10 ,I actually can not think of anything,juice,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,1,1,0,0
+629285,8,$8 ,MIB,nestea,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0
+743488,5,$9.00 ,The Avengers,soda,Shawarma,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+523710,5-10,$8-12,Aladdin,Coke,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,0,1,1,0,0
+635179,7,$8.00 ,Gladiator,Iced Tea,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0
+313562,6,$10 ,fast and furious ,crush ,Shawarma,0,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,0,1,0,0
+712670,5-10 ingredients.,7-10 dollors,Aladdin,Coca-Cola,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0
+635627,5,$13 ,Avengers,Coke,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1,0,0
+524485,4,22,The Avengers,Coke,Shawarma,0,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+632320,"Vegetables, rice, carrots",8,,ice lemon tea,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,1,1,0
+633520,"Depending on the toppings, anywhere from 5-15. You really can't go wrong with it. ","15-20, depending on whether it's a wrap or a bowl. ",Aladdin,Laban Ayran ,Shawarma,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,1,1,0,0,0
+606905,9,11.99,borat,pineapple fanta,Shawarma,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,1,0,0,1,0
+393424,7,10,Avengers,Coke,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1,0,0
+618333,"Bread
+
+Two sauces
+
+chicken or any meat
+
+pickles
+
+turnip
+
+onions
+
+Lettuce
+
+4 min to 12
+
+8 optimal",8 Cad,Oppenheimer,Coca cola,Shawarma,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0
+628558, 8,$12 ,"The Avengers. At the end of the film after the battle in NYC, Tony Stark suggests to the rest of the team that they go get shawarma.",tap water.,Shawarma,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+613776,8,12 CAD,The Avengers,Diet Coke,Shawarma,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0
+317214,"I would expect there to be rice or fries, some salad including 2 vegetables and some onion and shawarma meat. So overall that's 5 ingredients.",I would expect to pay around 16$ for a regular sized serving of shawarma.,I think of movies that I've watch with either my friends or my siblings.,Any drink would pair well.,Shawarma,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,0,1,0,0
+628093,"6.
+
+Multiple vegetables, meat, and sauces.",$12.00 ,Deadpool 2.,Water.,Shawarma,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+411781,4,12,The Avengers,Coke Zero,Shawarma,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0
+525567,7,12,The Kite Runner,Water,Shawarma,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,0
+634455,5-6,10-Jul,I dont think of a movie.,Water.,Shawarma,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,1,0,0,0,0
+498848,15,$10 ,Avengers,Pop,Shawarma,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0
+638838,10,$12.50 ,The Barbie Movie,Pepsi,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+411253,7,5,avengers,sprite,Shawarma,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+410165,8,15,avengers,pineapple juice,Shawarma,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+608554,4,15,Avengers,Laban,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,1,1,0,0
+602394,7,$15 ,Deadpool 2,Pop,Shawarma,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+743623,"6+ ingredients: meat, wrap, lettuce, tomatoes, condiments such as various sauces (including hot sauce), ",$15 for a moderately sized shawarma,Ratatouille,"Pop, such as Coke or Pepsi, or Jarritos",Shawarma,0,0,0,1,0,0,1,0,0,1,0,1,1,1,1,1,0,0,0,0
+87783,At least 5 ingredients.,$10 per sandwich ,The Avengers. ,Yogurt Drink or Coca-Cola,Shawarma,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0
+632431,"chicken. beef, onions, tomato, garlic sauce, hot sauce, lettuce ",9.99$,Avenegers,Sprite,Shawarma,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,0,1,1,1,0
+744091,1? I thought shawarma refered to the meat and not the whole wrap.,7-8$ for a whole wrap.,The Avengers,Water,Shawarma,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,1
+519570,13,$15 ,Breaking bad,Soda,Shawarma,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,1,1,0,0,0
+744484,10,$12 ,The Avengers,Water,Shawarma,0,0,1,0,0,0,1,0,0,0,0,1,1,1,1,1,0,1,0,0
+508149,10,11,The Avengers,Water,Shawarma,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0
+524992,4,12,The Dictator,pepsi,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0
+413570,8 ingredients,$9 ,Avengers,Sprite,Shawarma,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,1,0,1,0,0
+306207,8-12,$12 max,Pursuit of Happyness,Water,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0
+634468,5,15,The Avengers,Soda/Pop,Shawarma,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+522205,5+,$12 ,The Avengers ,Sprite,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+5978,7,10 dollars ,Nothing,Soda,Shawarma,0,0,1,0,0,0,0,1,0,0,1,0,1,0,1,1,0,0,1,0
+742611,"At least 3:
+
+1. Bread / Dough outside
+
+2. Sauce (tahini, etc)
+
+3. Meat (Chicken, Beef, Lamb)
+
+Also
+
+4. Vegetables (Tomato, Cucumber, Lettuces). ",Usually 6$ to 12$ based on BA's food trucks and Uber Eats prices.,Probably some middle eat movies.,"None, or maybe water.",Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1,1,0
+631198,9,10,The Avengers,water,Shawarma,0,1,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,1,0
+606150,Seven.,12 CAD.,Deadpool & Wolverine.,Coca Cola.,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+313577,4-6 ingredients,$13 ,Avengers,coke,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+629700,5+,$13 ,The Dictator,Water.,Shawarma,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+630928,9,11,Drishyam,coffee,Shawarma,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+607286,10-15,$10 ,The Avengers,Coke,Shawarma,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0
+607609,8,$7 ,Mission Impossible,Orange Juice,Shawarma,0,0,1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0
+522890,It can vary depending on what is needed inside the shawarma. From as little as 2-3 to much more like 6. ,8$-12$,The Avengers. Action movies.,"Sprite or any soft drinks as such. Coke, Pepsi, etc.",Shawarma,0,0,0,0,1,0,1,0,0,0,0,1,1,1,1,0,1,1,0,0
+630227,10+,$12 ,Us,Coca cola,Shawarma,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,1,0,0
+603607,7,8,The Avengers,Pepsi,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+617029,10,10,Borat,tea,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,1,1,0,0
+617462,6,$10 ,Avengers 1 ,Coke,Shawarma,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,0,1,0,0
+633001,13,8,The Avengers,Iced tea,Shawarma,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0
+634690,10,11,Avengers,Pepsi,Shawarma,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+630198,7,10,avengers,Mango Juice,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0
+520507,8,$6 ,,Water,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+635065,9,9,Aladdin,Soda,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+613209,4,8-10 $,The Avengers 2012,Pepsi/Coke,Shawarma,0,1,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0
+605452,12,20,The Avengers,Ayran,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,1,0
+24137,5,15,middle east movie,fruit juice,Shawarma,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,0
+518809,6,10,none,coke,Shawarma,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,0,1,1,0,0
+634646,5,$7 ,The Avengers,water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0
+508156,7,$15 ,Avengers,Ayran,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,1,0
+632909,6,$13 ,Avengers,Coke,Shawarma,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,1,0,1,0,0
+414734,5,lower than 15$,no movie,cola ,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0
+630250,"meat, bread, vegetables, sauce, spices, fries.",13 to 15 dollars,deadpool & wolverine,Sprite,Shawarma,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0
+411810,about 10 for a good shawarma,about $7,None specifically,Mango juice,Shawarma,0,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0
+214145,5,10,shrek2,wine,Shawarma,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+628986,4,16.98,Ninja Turtle,Coca-Cola,Shawarma,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1
+211158,10,12,,Soda,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+507382,3 to 5 ingredients,7 Dollars,The Avengers,Water,Shawarma,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0
+522877,6 ingredients ,$12.50 ,Shrek,water,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,1,1,0,0
+635024,3,8-10 dollars.,The Avengers,Water.,Shawarma,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,1,1,0,0
+602845,The food item can have between 5 and 10 ingredients.,I expect to pay $10.,I think of the movie named Avengers.,"There is no specific that I like to pair with this food item, but I like to drink water.",Shawarma,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0
+519822,5,$12 ,Nosferatu,Coca-cola,Shawarma,0,0,1,0,0,0,1,0,0,0,0,1,1,1,1,1,0,0,1,0
+600849,10,$7 ,The Avengers,Water,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0
+605148,5,$13 ,The Avengers,"Any soda: Pepsi, Coca Cola, Crush, Canada Dry",Shawarma,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+631600,"I would expect at least 10 ingredients. You have the different meats (chicken, lamb, beef). The vegetables are also present in this meal (pickles, red pickles, lettuce). Lets not forget about that bread. There are different kinds of breads one can use to make a shawarma, i.e., sag bread.",I would pay around $10 for a large size shawarma,"I think about the first Avengers movie. After they fought off the aliens in the city, the superheroes gather at a local shawarma place that is nearly destroyed because of the alien invasion and eat quietly around the table.","Water. If you have any pop, that just cancels out all of the flavor in the shawarma. A good shawarma has all the flavor you need and one does not need pop to cancel it out.",Shawarma,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+716142,"8+ meat, rice, a lot of vegetables, spices, sauces",$5 ,Avengers,Soda,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0
+525853,3 to 6 ingredients,15 to 20 dollars,Alien,Orange juice,Shawarma,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0
+835124,7,$9 ,The Avengers,Fanta,Shawarma,0,0,1,0,0,0,0,1,0,0,1,1,0,1,0,0,1,0,0,0
+634764,10,$10 ,The Avengers,Iced Tea,Shawarma,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0,1,0,0
+630117,"Around 4
+
+if we’re talking about only the chicken part",Around 14,,Pop drink,Shawarma,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+631531,4-5,~$10,Avengers age of ultron,pepsi,Shawarma,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,1,0,0
+714062,At least 8,Around 10 CAD,,Apple juice,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+629156,10,10,The Avengers,Mint lemonade,Shawarma,0,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0
+498563,13,$12 ,Avenger,Tea,Shawarma,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+625319,"Chicken or beef.
+
+Saj bread or some bread for the wrap.
+Lettuce
+Pickles
+Tomatoes
+Cilantro 
+
+ ",$9-10,The Dictator,"Soda, Water, or Coffee",Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+723931,10,15 dollars,indiana jones,coke,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+526497,10,$15.00 ,The Avengers ,Ginger Ale,Shawarma,0,0,1,0,0,0,1,0,0,0,1,1,1,0,1,1,1,1,0,0
+630999,6,15 dollars,,Water,Shawarma,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0
+97339,10,$10 ,The Avengers,Coke Zero,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+631909,5-7,$12 ,The Avengers,Gingerale,Shawarma,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,1,0,1,0,0
+625349,5,15,madagascar,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0
+632299,At least 5.,12 dollars.,The avengers,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,0,1,0,0
+616634,7,8,The Avengers,Iced Tea,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0
+616836,2,$12 ,Aladdin,"Diet Coke
+
+ ",Shawarma,0,0,1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0
+609116,4,$8 ,The Avengers,Soda,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,0,0
+626789,7,11,,diet coke,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+504599,5-10,10 CAD,The Avengers,Orange juice,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+632684,7,12,Avengers,Coca Cola,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0
+522967,8,15,avengers,coca cola,Shawarma,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,0
+632893,5,$10 ,Angry Birds,Sprite,Shawarma,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+632156,I would expect this food item to contain around ten ingredients.,"Taking one wrap as one serving, I would expect to pay $12.",I think of the Avengers when I think of shawarma.,I would pair coke with shawarma.,Shawarma,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+603582,15,10 CAD,The Road to Fallujah,Coke,Shawarma,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,0
+626754,"Rice, Chicken, Garlic Sauce, some spices. So 4-8 ingredients.",$12 ,The Avengers,Water,Shawarma,0,0,0,1,0,1,0,0,0,1,0,1,1,1,1,1,1,0,0,0
+298481,10-15 depending on the type of shwarma,$5-$15,Kingdom of Heaven,Coke Zero,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0
+631583,7,12,Lawrence of Arabia,Coke,Shawarma,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,0,1,0
+718026,4,8,the dictator,pepsi,Shawarma,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+616713,12,8 CAD,I don't,Coke,Shawarma,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,0,0,0
+602533,4,14,The Avengers,Nestea,Shawarma,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,1,1,0,1,0
+522345,It could contain anywhere between 3 to 12 ingredients,I would pay $12 for an 8-inch shawarma and $16 for a 16-inch shawarma,Avengers,Mango Juice,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+629758,4,around 10 dollars,time of happiness ,diet coke,Shawarma,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,1,0
+631496,5,$10 ,The Avengers,Coke,Shawarma,0,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,1,0
+491374,2-10,8-13 Canadian dollars,,Ginger Ale,Shawarma,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+632051,8,10,The Dictator,Water,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0
+409930,7 or 8,$10 to $20,probably something with a middle eastern setting,water,Shawarma,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+632975,7-12,12,Barbie,Water,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0
+407221,7,$10 ,Avengers,Pepsi,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,1,1,1,0,0
+204508,10,$10 ,avengers,coke,Shawarma,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,0
+618700,5,10,The Avengers (2012),soda,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+627792,Four.,8 CAD.,The Avengers.,Coca Cola.,Shawarma,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,0
+712054,5,$16 ,Green Book,Nestea Iced Tea,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+631881,10-15 ingredients,$8-$12,The Avengers because they eat it together after the Battle of New York.,Beer or soda,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+716188,"Lettuce, TOmatoes, Oniuons, Toum sauce, Tahini sauce, Black olives, cheese, and chicken.",$11 ,Middle Eastern Movies,no drink,Shawarma,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+628744,4,$10-15,Avengers,Water,Shawarma,0,0,1,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,1,0
+604132,8,13,Avangers,Water,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,0,1,1,0,0
+629807,5,10,Avengers,Water,Shawarma,0,0,1,0,0,0,1,0,0,0,0,1,1,0,1,0,1,0,0,0
+741428,5,$8 ,,Water,Shawarma,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0
+633024,9,10,N.A. (I only watched a few movies so I cannot think of any movie related to Shawarma),Sprite,Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+631221,I would expect there to be between 2 and 6 ingredients.,I would expect to pay $10.,Hangover,Water,Shawarma,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0
+601983,4,10,Coco,Iced Tea,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+603007,11 ,15 dollars,The Dictator,Iced Tea,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0
+601217,9,10 CAD,11-Sep,Diet coke,Shawarma,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,1,0,0,0,0
+629221,7,$13 ,Borat,Coke,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+634705,10,$8 ,13 Hours,Coca Cola,Shawarma,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0
+630070,5,$16 ,Avengers,Sprite,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0
+630006,4,$20 ,Deadpool,Sprite,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+629072,10,$13.50 ,Aladdin,Water,Shawarma,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0
+630044,I expect like 10 ingredients.,I expect to pay like 13$ for a serving,Ratatouille,Diet Pepsi,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+626026,9,10$,ratatouille,sparkling water.,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,1,0,1,0,0
+520303,"Radish, pickle, chicken, sauce, pita",15,Murder on the Orient Express,Coke,Shawarma,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0
+630972,10,10 bucks,The Dictator,Soda,Shawarma,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,0,1,0
+630948,5,10,,soda,Shawarma,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0
+626778,10 ingredients,$12 ,The Avengers,Coke Zero,Shawarma,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0
+631181,9,12,Three idiots,Coke,Shawarma,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0
+633541,6-12,12,Taxi Driver,Nestea,Shawarma,0,0,1,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,0
+630098,"I would expect 7 ingredients. 
+
+Meat (chicken, beef, lamb, or turkey, often seasoned and roasted)
+Pita bread or flatbread
+Garlic
+Yogurt
+Lemon juice
+Olive oil
+Spices (cumin, paprika, turmeric, cinnamon, etc.)",10 dollar,The Avengers,Apple juice.,Shawarma,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,1,0,0,0,0
+629959,11,15 dollars,Avengers,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,1,1,0,0
+633097,6,$7 ,Kung Fu panda,Lemonade,Shawarma,0,0,0,1,0,0,0,1,0,1,1,1,0,1,0,1,1,0,0,0
+605290,"Lamb/chick, pita bread, some special souce, pink pickles, yellow rice",$8/serving,I can't think of anything,Soda,Shawarma,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0
+629869,4,$15 ,Dune,Diet coke,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0
+632868,Considering the different amounts of toppings this could be at least 8 for a classical style.,One serving would expected for me to pay around $15.  ,Deadpool & Wolverine is the movie that comes to mind. This is because of the ending scene where they get this food after their battle. ,I would pair the drink Pepsi with this food. ,Shawarma,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,1,0
+209691,I expect this food item to contain 10 ingredients.,I expect to pay $10 for one serving of this food item.,I think of The Avengers when thinking of this food item.,I would pair this food item with iced tea.,Shawarma,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0
+600915,4,10,Cars,Water,Shawarma,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+525420,8,$10 ,Borat,Laban,Shawarma,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,1,1,0,0
+414710,6 ,$10 CAD,Avengers,7UP,Shawarma,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,0
+629985,7,$7 ,The Grinch,Water,Shawarma,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,1,0,0,0,0
+523128,10,10,John Wick,Coke,Shawarma,0,0,1,0,0,0,0,1,0,1,0,1,1,0,1,0,1,1,0,0
+727410,6,$20 ,The Avengers,Coke,Shawarma,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+616457,6-8,10,avengers,barbican,Shawarma,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0
+206487,Seven,Six dollar,"*********
+Avengers 
+*********",Coke,Shawarma,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,1,0
+68949,8,$10-$13 depending on the size.,The Avengers (2012),Ice Tea or Lemonade,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,1,1,1,0,0
+419835,5,12,Interstellar,Yogurt,Shawarma,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,1,0,0,0,0
+745732,"4 three, meat, pitta, sauce, vegetable.",8 to 12 dollars.,Shazam！,coca cola,Shawarma,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,0,0,0,1,0
+543739,10,10,The Avengers,Coke,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+410380,5,11,Avengers,Soda,Shawarma,0,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,1,0
+385307,5 ,10 each ,The Avengers ,coke,Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0
+634566,6,15,The lion King,Juice,Shawarma,0,1,0,0,0,1,0,0,0,1,1,1,1,0,0,1,1,1,0,0
+625818,6 ingredients,10$,Avengers,Barbican,Shawarma,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,0,0,0
+631164,"flat bread, some sort of meat, hummus, pickles, beets, lettuce, some spices, salt.
+
+atleast 7",$5-$10,"Aladdin, idk.",Water,Shawarma,0,0,0,1,0,0,0,1,0,1,0,1,1,1,1,0,0,0,1,0
+603130,5,$13 ,Deadpool and Wolverine,Canned soda,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+229211,I would expect this food item to contain about 6 to 8 ingredients,$6 ,The Avengers,Gingerale (Canada Dry),Shawarma,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,0,1,0
+626849,5,$10.00 ,The Avengers,Pop/Soda,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0
+634650,5,$13 ,Avengers,Coke,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+632125,8,$2.50 ,,Water,Shawarma,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,0,1,0
+626812,5-10,15,no movie,soft drinks,Shawarma,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0
+631109,8 - 10.,$9-12,"Think of Mulan, which my family and I watched last weekend while eating Shawarma. ",Water,Shawarma,0,0,0,1,0,0,0,1,0,1,0,1,1,1,0,0,1,1,0,0
+716766,"6-8, including the bread, marinated meat, vegetable, sauces, and optional spices or pickles",8 for each wrap,Dangal,coca-cola,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0
+494103,10,15 dollars,The avengers,Coca cola,Shawarma,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,1,1,1,0,0
+628102,6-8,$12 ,You Don't Mess With The Zohan,Water,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0
+634683,5-7,8-12 dollars,,Ayran,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0
+517774,5,10,Interstellar,sprite,Shawarma,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+408898,7,7 dollars,Avengers,Water,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0
+603189,7,10,Mandoob,Ayran,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,1,0,0,1,1,0,0,0
+606857,6,6 CAD,The Dictator,Lemon Iced Tea,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0
+523080,5,9 dollars,harry potter,soda,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+631014,8,$10 ,The Prince of Egypt,Water,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0
+503957,5,$10 ,avengers,Ginger Ale,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,0,1,0
+524890,6,$12 ,The Avengers,Sprite,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0
+717411,9,$7 ,Indian movie,iced tea,Shawarma,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,0,0,0,1,0
+525311,10,$12 ,The Avengers,Lemonade,Shawarma,0,1,0,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+630967,4,10,The Dictator,Ayran,Shawarma,0,0,0,1,0,1,0,0,0,0,1,1,1,0,1,1,1,0,0,0
+604969,9,$8 ,Avengers,Soda,Shawarma,0,0,1,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0
+524480,15 ingredients,$15 ,Avengers,Water,Shawarma,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0
+630121,around 20 ingredients,around $20.00,Aladdin,soft drinks,Shawarma,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0,1,0
+629615,with spices: 6,for a shawarma plate: 12 dollars,Avengers,Barbican,Shawarma,0,0,1,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,0,0
+634977,6,10,Avengers,Fanta,Shawarma,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0
+630823,12,14,Iron man,coke,Shawarma,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,0,0
+632228,12,5 to 8 dollars,The Dictator,coke,Shawarma,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,1,0,0
+504548,6,$15 ,The Avengers,Water,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,1,0
+522477,"As many as possible, at least more than 10 ingredients",At most $15.,The Avengers,Coke,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,1,1,0
+523461,12,$8 ,Avengers,Soda,Shawarma,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,0,0,0
+312640,7-8 between vegetables the bread and meat,13 dollars for a standard size maybe 15 or 16 for a large,Avengers,leban,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0
+854745,7,$7 ,Rush hour,Water,Shawarma,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0
+711854,"Pancake, lettuce, tomato, cucumber, chicken, sauce
+
+6 ingredients",$10 ,Mission: Impossible,Orange juice,Shawarma,0,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0
+739254,Around 5 - 10 ingredients,8 dollars,Aladdin,Water,Shawarma,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0
+621555,like 6+ probably? Depends on what toppings you get I guess.,"14$ or so I guess for a bowl, 10ish for a wrap.",That one marvel movie i dont know i dont watch movies.,Pepsi or some other soft drink.,Shawarma,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0
+602482,3-5,7-9 dollars,IDK,Soda,Shawarma,0,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,0,0,1,0
+630416,At least 5,$5?,"Ratatouille, because the rat cooks food and this is food ",Water :),Shawarma,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,1
+505458,2,10,,Soft,Shawarma,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,1,0
+296589,"Some sort of meat, rice, tortilla, veggies",Around $8-10,South Park: The End of Obesity,Water,Shawarma,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0
+604826,"7 Ingredients
+
+Lamb
+
+Pita
+
+White Sauce
+
+Yellow Rice
+
+Lettuce
+
+Tomatoes
+
+Corn",I will expect to pay around 11 dollars for one serving of this food item. ,I think about the movie Avengers when I think of Shawarma. ,I will pair this drink with Sparking Water.,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0,0,1,0,0
+387820,5-8 ingredients. ,20 CAD.,yeh jawaani hai deewani,fanta,Shawarma,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+603612,5,12,Avengers,Water,Shawarma,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0
+712252,10,$10 ,The Avengers,Water,Shawarma,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0
+742226,10,10,The Avengers (Post-Credit Scene),Juice,Shawarma,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,1,0
+712771,3,20,Dabba,Iced tea,Shawarma,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+746466,7,18,Rush Hour,Water,Shawarma,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,1,0,0,1,0
+601737,"cone, chicken, hummus, garlic sauce, pickled radish, fries, tomato. so 7 ingredients.",12 dollars,Lawrence of Arabia,coke,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0
+631902,5,$8 ,The Avengers (2012),Water,Shawarma,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0
+312320,"rice 
+
+onions
+
+hummus
+
+pickles
+
+pickled beets
+
+tahini
+
+chicken or beef shawarma
+
+falafel
+
+lettuce
+
+tomatoes","shawarma wrap = $10
+
+shawarma plate = $15",I think of the Cheech & Chong movies when I think of Shawarma,I would pair Coke Cola or bottled water with Shawarma,Shawarma,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1
+519986,8,11,Avengers,Sprite,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0
+626771,I would expect this food item to contain between 5 and 8 ingredients.,I would expect to pay between $8-15 CAD for one serving of this food item.,I think of the movie The Avengers. They have an entire bit surrounding this food item.,"I would pair this food item with a soda of choice. Mine would be Diet Coke. I would also pair it with water, as it can be salty.",Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0
+407257,10,10,The Avengers,"Soda
+
+Pop
+
+Coke",Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,1,1,0,0
+626883,3,$4-6,Star Wars,Water,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,0
+727339,"At least 3:
+
+- Wrap, meat, vegetables",10$,The Avengers,Iced Tea,Shawarma,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0
+631448,Around 6-7,Around 6-7 dollars,"Ratatouille again, but that's because my knowledge of movies is limited and I barely watch any.",Orange Juice/ Cold water,Shawarma,0,1,0,0,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,0
+634885,8,$11 ,Shawshank redemption,Water,Shawarma,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0
+619932,10,$11 ,,Juice,Shawarma,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0,1,0,1,0
+601986,13,12.36$,Mad Max,Coke,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,0,0,1,0
+631141,"3 base, 4 toppings, total 7",$12 ,Avengers,Iced Tea,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0
+631069,10,$12 ,I don't know,Soft Drinks (soda),Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0
+634508,5,$9 ,Aladdin,Coke,Shawarma,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0
+206744,"7
+
+pita, meat, herbs and spices, sauces, 3 veggies",$10 ,The Avengers,Mango juice,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0
+498213,"at least 8 ingredients, including all the veggies",one big shawarma wrap could be around 8-10 cad,I think of Middle Eastern/Indian movies but nothing some in mind specifically.,soda. Diet Coke in particular ,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,1,0,1,0,0
+627496,6 ingredients,13.00 dollars,Avengers: Endgame,Fanta,Shawarma,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,0,1,0
+629659,15,10$,Endgame,Mango Juice,Shawarma,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,0
+630190,I would expect this food to contain 6 ingredients.,8 dollars.,I think of the movie Borat.,"No drink, or iced tea.",Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0
+401586,10,12.5,Taken 2,Diet Coke,Shawarma,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+629263,12,$15 ,The Avengers,Coke,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,1,0,1,1,0
+631678,10,15$,Ferris Bueller’s Day Off,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+411681,6-10,$12 ,The Avengers,Water,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+518733,7,9 dollars,the dora movie,coke,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0
+630378,8,$10 ,The Avengers,Pepsi,Shawarma,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+631142,8 Ingredients,$12 per serving,The Avengers,Sprite,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,0,1,1,1,1,1,0
+519976,"I have no idea, I don't eat that stuff","I have no idea, I don't eat that stuff","I have no idea, I don't eat that stuff","I have no idea, I don't eat that stuff",Shawarma,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+604991,13,12,The Avengers,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,1,0,1,0
+522483,1,$8 ,Nothing,Water,Shawarma,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0
+629723,1,$13 ,The Whale,Pepsi,Shawarma,0,0,0,1,0,0,1,0,0,0,1,1,1,1,1,1,0,1,0,0
+387522,5,15,Avengers,Coca Cola,Shawarma,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0,0
+613484,6,$8.00 ,Chinese zodiac,Water,Shawarma,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0
+388729,I prefer to take around 3 of them.,Around 15 - 20 dollar !,"It sounds like you're referring to the movie Ratatouille! It’s a Pixar animated film about a rat named Remy who dreams of becoming a great chef despite being a rodent in a profession dominated by humans. The story is set in Paris, and it beautifully blends themes of passion, creativity, and perseverance in the culinary world. Let me know if this is the one you're thinking of!",fruit tea,Shawarma,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+494373,10,12-Oct,The avengers,Coke zero,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+630977,10 ingredients,15 dollars,No movie,Sprite,Shawarma,0,0,0,0,1,0,0,0,1,0,1,1,1,1,1,1,1,1,0,0
+621982,3,12 dollars,The Avengers,coke,Shawarma,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+605537,3,6,Ratatouille,orange juice,Shawarma,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+607073,5-6,10-Aug,sci-fic movies,pop drinks,Shawarma,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0
+624443,4,$7 ,The Avengers,Water,Shawarma,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1,0
+718089,5-7,$10-$15,Dictator ,Pepsi,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1,0
+622727,"At least 4 or more depending on the toppings. The bare minimum would be: pita bread, meat, vegetables, condiments.",$8 to $9,The Avengers,"Iced tea, Coca-Cola, or water",Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,1,1,0,0
+609617,"4 ingredients: Marinated Chicken, Pita Bread, French Fries, Garlic",Around 6$ would be fair value,Avengers,Pepsi,Shawarma,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+526064,12,$8 ,none,Milk,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0
+609179,10+,12,Avengers,iced tea,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,1,0,0,1,0
+627638,Around 10.,Around $6.,No movie comes to mind.,A soda or iced tea.,Shawarma,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0
+411117,10,$9 ,The Avengers,Mango Juice,Shawarma,0,0,0,1,0,0,0,1,0,0,1,1,0,1,1,1,1,1,0,0
+634430,6,$8.00 ,The Avengers,Pepsi,Shawarma,0,0,0,1,0,1,0,0,0,1,0,1,1,1,1,0,1,1,0,0
+631711,"Five ingredients: Bread, chicken, three toppings.",$3 ,Sonic the Hedgehog,Coke,Shawarma,0,0,1,0,0,0,1,0,0,1,0,1,1,1,1,0,0,0,1,0
+606010,like 4-8. I really would like my ingredients to be on the lower side because the simpler the better. Also I like this item better in a bowl.,like 6-10$ USD.,Those commercials by the toronto food man. Za bebsi is the best.,pepsi,Shawarma,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,1,0
+631436,"I would expect the shawarma to contain 8-9 ingredients, for clarity my response is 9. ","For one shawarma, it should cost $12 according to Osmows. ","I think of the movie 'The Avengers' because in the final scene of the movie, Tony Stark takes the avengers to the Shawarma place. ",I would pair Mountain Dew's Baja Blast with Shawarma. ,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+633712,5,10,The Avengers,Water,Shawarma,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+609556,14,10 dollar,Aladdin,Water,Shawarma,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,0,0,1,0
+520090,4,$9 ,Avengers,Barbican,Shawarma,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,0,0,0,0
+602234,"7 total. The ingredients include one choice of meat, pita bread, olive oil, spices, and about 3 toppings.",I expect to pay $15 for one serving of shawarma.,"When eating shawarma, I think of the movie ""Shrek 2"".",Probably just water. Nothing crazy.,Shawarma,0,1,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0
+741592,8,9.99,The Avengers,Juice,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,0
+628547,12,$15 ,The Avengers,Water,Shawarma,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,1,0,0
+501513,4,10,3 Idiots,Sprite,Shawarma,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+630929,5,$9 ,none,soda,Shawarma,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0
+617379,7,$9 ,The Avengers,Root Beer,Shawarma,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0
+617310,9,13.99,Avengers ,Lemonade,Shawarma,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,1,0
+495424,5,$10 ,Spiderman,Water,Shawarma,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+622787,10,8,deadpool 3,chocolate milk,Shawarma,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+631716,7,$13 ,21 Jump Street,Water,Shawarma,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0
+741658,"Flour, Oil, Vegetables, Meats.",less than 10 dollars.,The Avengers,No drink,Shawarma,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0,1,0,1
+620745,25,$12-$15,The Avengers,Pop,Shawarma,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,0,1,0
+611932,5,$10 ,Not sure,Mango lassi,Shawarma,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0
+635602,Around 8-10 depending on the type,"$8-14, depending on size/type",Avengers (2012),iced tea/lemonade,Shawarma,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0
+619892,15,$12.00 ,Chef,lemonade,Shawarma,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0
+529289,8,$15 ,Slumdog Millionaire,Iced Tea,Shawarma,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0
+630738,10,10,none,water,Shawarma,0,0,1,0,0,0,0,0,0,1,1,1,0,1,0,1,1,0,1,0
+524766,4,15,Avengers,Dairy,Shawarma,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,0,0,1,0,0
+522148,5-7,9,bollywood,cola,Shawarma,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+601547,5+,10 per serving,middle eastern movie,water,Shawarma,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0
+631046,7,12,How to lose a guy in 10 days,Pepsi,Shawarma,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,0
+66222,10,10,Fast and Furious,Zero sugar coca cola,Shawarma,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0
+603182,15,15,,Soda,Shawarma,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,0
+632117,"I would expect 7-10: wrap (pita for example), chicken, cucumber, tomato, lettuce, sauce, and other vegetable toppings like onions, olives, green peppers, jalapeno peppers, banana peppers, and so on. However, this is not counting for the number of ingredients it might take to make the sauce itself.","One serving of shawarma typically refers to one whole wrap, so about 11 CAD in Toronto.",Ratatouille.,Water.,Shawarma,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,0,1,1,1,0
+630209,More than 5,$10 ,The Avengers,Coke,Shawarma,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0
+413395,6-8,20-Oct,Marvel Movies,Coke or Juice,Shawarma,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+386750,3 to 4,About 15 - 20 dollars,Burnt,A coca cola ,Shawarma,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+617178,"At the bare minimum it would nee two ingredients. However, on average I would say it has six to eight ingredients.",10 dollars,I thought of the anime Food Wars.,Nothing in particular– I would say water.,Shawarma,0,0,1,0,0,0,1,0,0,0,0,1,1,1,1,0,1,0,0,1
+630128,3 or a finite amount more,$10 ,The Avengers,Any soft drink,Shawarma,1,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0,0
+628736,I expect it to contain 5 to 8 ingredients. Some people might like to have hummus or tahini sauce or falafel in this food item.,"I wouldn’t pay more than a few hundred turkish lira, unless inflation increases the cost of this food item.","I don’t usually think of any movie when having this food item, but, after using google to refresh my memory, I would say Avengers because of the post-credits scene.","I would have milk and water (in separate cups of course). Milk in case it gets too spicy, and water in case it is too salty.",Shawarma,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,1,0,0,1,0
+747734,5,12-20 dollars,Ponyo,sake,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+517064,3-5 ingredients.,For a single sushi? $1-2.,Kung Fu Panda,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0
+387330,4,$13 ,Rush Hour 3,Rice wine,Sushi,1,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,1,1,0,0
+746750,2-4,$20 ,I don't know that many movies fr,water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+629285,4,$11 ,scary movie,milk tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+743488,3,$10.00 for a meal,The Menu,water,Sushi,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+523710,5-10,$6-18,"Monsters, Inc.",Coke,Sushi,0,0,0,1,0,1,0,0,0,1,0,1,0,1,1,1,0,0,1,0
+635179,5,$13.00 ,John Wick,Water,Sushi,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0
+313562,6,$25 ,fast and furious ,water ,Sushi,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,0
+712670,fish and rice so about 2,1 dollar per sushi,"Sushi is from Japan so I would think about a Japanese movie. Your Name, the anime movie.",green tea or water,Sushi,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+635627,5,$15 ,Kung Fu Panda,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0
+524485,6,40,Finding Nemo,Coke,Sushi,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+632320,"rice, fish, nori",12 for 6 pieces,your name,water,Sushi,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,1,0,0
+633520,Anywhere from 5-10,~$20,The Emoji Movie ,Water,Sushi,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0
+606905,5,20.99,rush hour,misso soup,Sushi,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+393424,5,10,Rush Hour 2,Sake,Sushi,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+618333,"Rice
+
+meat
+
+wasabi
+
+3 min to 6 
+
+4 being optimal",12 CAD,,Soju,Sushi,1,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,0,0
+628558,5,$25 ,"Isle of Dogs, this film =showcases a chef making a poisoned sushi.",miso soup,Sushi,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0
+613776,"Depends on the roll, but on average 5","One serving for me would at least have to be 8 rolls, and I expect to pay $12.",John Wick: Chapter 3 - Parabellum,Jasmine Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0
+317214,"I would expect one sushi to only contain rice, maybe nori, and definitely some type of fish. So a small platter of sushi would contain at least 10 different ingredients.",I would expect to pay at least 20 for a small platter of sushi,I don't think of any movie.,A tea would pair well,Sushi,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+628093,6,$30.00 ,Cars 2.,Water,Sushi,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0
+411781,5,11,"Crazy, stupid, love",Coke Zero,Sushi,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+525567,7,10,Crazy Rich Asians,Water,Sushi,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+634455,2-4,8,,Soju,Sushi,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0
+498848,8,$12 ,Kill Bill,Sake,Sushi,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0
+638838,7,$25.00 ,Big Hero 6,Water,Sushi,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+411253,4,8,Tokyo Drift,sprite,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+410165,7,25,ratatouille,water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+608554,4,20,Breaking Bad,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+602394,3,$10 ,Monsters Inc,Water,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,1,0,0
+743623,"4-5: Rice, Nori, Seafood, Vegetables","$20 for high-class sushi, 8 pieces",A Silent Voice,Water or Jarritos,Sushi,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+87783,At least 4 ingredients ,$40 for dinner. ,Kill Bill,Coca-Cola or Beer,Sushi,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,0,1,0,1,0
+632431,"raw fish, rice",10.99$,Pokemon the first movie ,Water,Sushi,0,0,0,1,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0
+744091,"Depends but around 2+. I would say the average is around 4 with the 2 ingredients for the filling, 1 for rice and 1 for the wrap.",Mabye each sushi cost 2$?,The Wolverine,Water,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+519570,5,$20 ,House MD,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0
+744484,8,$10 ,Jiro Dreams of Sushi,Water,Sushi,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,0,0,1,1
+508149,5,24,The Fast and the Furious: Tokyo Drift,Green Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0
+524992,5,12,Crazy Rich Asians,water,Sushi,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0
+413570,5 ingredients,$5 ,Shark Tale,Green tea,Sushi,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,0,1,1
+306207,5-8,$6 ,Who am I? (Jackie Chan),Water,Sushi,0,1,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0
+634468,4-5,20,Cars 2,Tea,Sushi,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,0
+522205,3+,$15 ,Cars,Green Tea,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+5978,3,12 dollars,Jiro Dreams of Sushi,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0
+742611,"1. Seaweed
+
+2. Rice
+
+Many other possibilities of the main ingrediant:
+
+3. Carrot / Yellow Radish / Cucumber / Avogado
+
+4. Meat (Tuna, Salmon)","Really depends on the main ingredient, usually $5-$15 for a roll.","Japanese movies, food documentaries.","stereotypically nihonshu, but maybe tea and water too.",Sushi,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+631198,5,12,Your Name,water,Sushi,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,1,1,0,1,0
+606150,Five.,10 CAD.,"Jiro Dreams of Sushi
+--------------------",Coca Cola.,Sushi,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0
+313577,5,$10 ,the big short,coke,Sushi,0,0,0,1,0,0,0,0,1,0,0,1,1,1,1,0,1,1,0,0
+629700,3,$15 ,Big Hero 6,Water,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+630928,3,13,Kodoku No Gurume,Barley tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+607286,10,$15 ,Godzilla,Milk,Sushi,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0
+607609,3,$14 ,Bullet Train,Sake,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0
+522890,It can vary from the type of sushi. So lets say 2-15 ingredients.,5$ up to 20$,Anime,Water,Sushi,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,1,0
+630227,3+,$30 ,Your Name,Water,Sushi,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+603607,2,10,Memoirs of a Geisha,Water,Sushi,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0
+617029,4,10,G.I. Joe,Sparkling water,Sushi,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,1,0
+617462,5,$20 ,OldBoy,Sake,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+633001,4,10,"Monsters, Inc.",Water,Sushi,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0
+634690,6,$18 ,Monsters Inc.,Water,Sushi,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,0,0,1,0,0
+630198,5,15,inception,water,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0
+520507,4,$4.50 ,,Water,Sushi,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,1,0
+635065,6,10,Penguins of madagascar,Beer,Sushi,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,1,0,1,0,0
+613209,3,17-18$,Jiro Dreams of Sushi,Water,Sushi,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+605452,5,25,Jiro Dreams of Sushi,Sake,Sushi,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+24137,6,25,japanese movie,water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+518809,3,6,none,coke,Sushi,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0
+634646,5,$10 ,Monsters Inc,water,Sushi,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,1,0,0,1,0
+508156,4-7,$10 ,Crazy rich asians,Water,Sushi,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0
+632909,4,$20 ,John Wick,green tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0
+414734,3,30-40$,no movie,sake,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+630250,"Seafood, rice, nori",18 to 20 dollars,jiro dreams of sushi,green tea,Sushi,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,0,0,0
+411810,3,$30 ,Tokyo drift,Water,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0
+214145,10,10,shrek3,powerade,Sushi,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1
+628986,5,12.79,Aquaman,Soda,Sushi,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0
+211158,5,8,,miso soup,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+507382,7 to 10 ingredients,12 Dollars,47 Ronin,Green Tea,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+522877,8 ingredients ,$20 ,Barbie (2021),Water,Sushi,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,1,0,1,1,0
+635024,5-7.,10 dollars.,Howl's Moving Castle,Water,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+602845,The number of ingredients in this food item is between 4 and 7.,About $25.,I think of the Spider-Man movie.,I like traditional green tea with it.,Sushi,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+519822,5,15,Madagascar,Water,Sushi,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,1,0,1,0,0
+600849,5,$5 ,Rush Hour,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0
+605148,3,One sushi roll: $15,Monsters Inc.,"Water, green tea",Sushi,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,0,1,0,0
+631600,I have never eaten sushi before so I am guessing: Around 4 ingredients. I believe there are multiple types of sushi's so it may depend.,I would probably expect to pay $10 for a tray of sushi,Penguins of Madagascar. There was a scene where all penguins made sushi and had to fight a big purple octopus with it.,Water,Sushi,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+716142,"5 - Avacoda, cucumber, rice, fish, seaweed",$10 ,Kill Bill,Green Tea,Sushi,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0
+525853,2 to 4 ingredients,5 to 20 dollars,Finding Nemo,Water,Sushi,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,1,0
+835124,4,$10 ,Pokemon,Green Tea,Sushi,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0
+634764,5,$15 ,9,Water,Sushi,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0
+630117,Usually 2 if we talking about one piece of normal sushi,around 1 per piece,Japanese movie,Hot matcha,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0
+631531,~2-3,~$15-20,jiro dreams of sushi,water,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+714062,At least 3,At least 15 CAD,James Bond,Green Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+629156,4,15,Jiro Dreams of Sushi,Green tea,Sushi,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0
+498563,8,$6.50 ,Wags,Green tea,Sushi,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0
+625319,"Fish
+Rice
+Seaweed",5$,Your Name,Water or fruit juice.,Sushi,0,0,0,0,1,0,1,0,0,1,0,1,1,1,1,1,0,0,1,1
+723931,6,20 dollars,naruto,matcha,Sushi,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,0,0
+526497,6,$8.00 ,Notting Hill,Mango Juice,Sushi,0,0,0,1,0,0,0,1,0,1,0,1,1,0,0,1,0,0,1,0
+630999,3,A box of sushi would be around 8 dollar.,,Green tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+97339,5,$3 ,The Wolverine,Water,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0
+631909,3-5,$5 ,Rush Hour 2,Green Tea,Sushi,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,1,1,0,0
+625349,5,14,Made in Abyss: Dawn of the Deep Soul,Bubble Milk Tea,Sushi,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+632299,4,20 dollars,Madagascar,Tea,Sushi,0,0,0,1,0,1,0,0,0,1,1,1,1,1,1,0,1,0,0,0
+616634,4,7,The Wolverine,Water,Sushi,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+616836,5,$10 ,Kung Fu Panda,Diet Coke,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,1,1,0
+609116,5,$10 ,Your Name,tea,Sushi,0,0,0,1,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0
+626789,5,14,,diet coke,Sushi,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+504599,2-5,15 CAD for 8 pieces,Meitantei Konan,Barley tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+632684,3,12,Cars,Coca Cola,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+522967,5,35,the last samurai,water,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0
+632893,4,$20 ,ShangChi,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0
+632156,"I would expect this food item to contain at least five ingredients, taking a nigiri sushi as an example: rice, vinegar, sugar, salt, and fish.","Taking one set as one serving, I would expect to pay $20.",I don't have a movie I think of when I think of sushi.,I would pair tea with sushi.,Sushi,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,1,1,1,0
+603582,5,20 CAD,Godzilla,Rice wine,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+626754,"Seaweed, Rice, Raw Fish. So 3 ingredients.",$15 ,Bullet Train,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0
+298481,4-12,$9-$40,Avengers,Milk Tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0
+631583,4,8,"**************
+Johnny English
+**************",ALCOHOLIC SAKE,Sushi,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,1,0,0,0,1
+718026,4,20,tokyo drift,pepsi,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+616713,5,25,Billions - TV Show,Sake,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+602533,4,10,Rush Hour,Water,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0
+522345,It could contain anywhere between 2 to 8 ingredients,One serving of sushi would be $16,Madagascar 2,straight soy sauce by the gallon,Sushi,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,0
+629758,5,around 17 dollars,Weathering with You,tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+631496,4-5,$10 ,The Fast and the Furious: Tokyo Drift,Water,Sushi,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+491374,2-3,10-25 Canadian dollars,,Hot Tea,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0
+632051,7,20,Godzilla,Bubble Tea,Sushi,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+409930,3 to 8,$5 to $25,Nothing,tea,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,0
+632975,5,15,No movie,Water,Sushi,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,1,0,0,0,1
+407221,3,$15 ,"Monsters, Inc.",Pepsi,Sushi,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+204508,5,$10 ,ip man,tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+618700,3,5,John Wick: Chapter 4,tea,Sushi,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+627792,Two.,15 CAD.,Isle of Dogs.,Water.,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,1,1,0,0
+712054,3,$20 ,Star Wars,Barley Tea,Sushi,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0
+631881,3-8,$10-20,Jiro Dreams of Sushi,Sake or sparkling water,Sushi,0,0,1,0,0,0,0,1,0,1,0,1,1,1,1,1,0,1,0,0
+716188,Raw seafood and rice,$15 ,Anime,tea,Sushi,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,0
+628744,5-8,$8-10,finding nemo,Water,Sushi,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,0
+604132,2,12,Anime,Water,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+629807,6,20,Rush hour,water,Sushi,0,0,0,1,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,0
+741428,6,$13 ,,,Sushi,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+633024,5,12,N.A. (I only watched a few movies so I cannot think of any movie related to Sushi),water,Sushi,0,0,1,0,0,1,0,0,0,1,1,1,1,0,1,1,0,0,0,0
+631221,Between 2 and 7.,"$12
+
+ ",Your name,Tea,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0
+601983,5,13,Django Unchained,Tea,Sushi,0,0,1,0,0,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0
+603007,2-3,5 dollars,The samurai,Ramune,Sushi,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0
+601217,2,7 CAD,Oppenheimer,Diet coke,Sushi,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+629221,6,$17 ,Big Hero 6,Water,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+634705,5,$12 ,Shang-Chi and the Legend of the Ten Rings,Water,Sushi,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0
+630070,15,$15 ,Karate kid II,No Drink,Sushi,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,0,1,0
+630006,10,$15 ,Crazy Rich Asians,Mango Pulp,Sushi,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,1,0,1,0,0
+629072,5,$20 ,Rush Hour,Soup,Sushi,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0
+630044,I think 5 ingredients,Perhaps 7 dollars.,Midnight Diner,Tea,Sushi,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+626026,4,8$,7 samurai.,Water.,Sushi,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,1,1,1,0,1
+520303,rice and protein,40,Godzilla,tea,Sushi,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+630972,3,22 bucks,Finding Nemo,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+630948,3,12,Finding Nemo,water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+626778,6 ingredients,$15 ,Cars 2,Coke Zero,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0
+631181,3,17,Rush hour,water,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+633541,3-6,20,Casablanca,Water,Sushi,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+630098,"7 ingredients
+Sushi rice (seasoned with rice vinegar, sugar, and salt)
+Nori (seaweed)
+Fish (e.g., tuna, salmon, shrimp, or crab)
+Vegetables (e.g., cucumber, avocado, or radish)
+Soy sauce
+Wasabi
+Pickled ginger (served on the side)",10 dollar,Jiro Dreams of Sushi ,Water.,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0
+629959,2,10 dollars,Pacific Rim,Water,Sushi,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0
+633097,5,$6 ,Train to Busan,Sake,Sushi,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,0
+605290,"Raw Salmon, rice, rice vinegar, cucumber, Avocado",$10/serving,"Love, hard",Matcha tea,Sushi,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0
+629869,5,20,shogun,diet brisk,Sushi,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+632868,Typical style would consist of 6-7 ingredients. ,One serving would be expected around $6. ,Finding Nemo was the first movie in my mind. ,I would have water to pair with this food. ,Sushi,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0
+209691,I would expect this food item to contain 4 ingredients.,I would expect to pay $15 for one serving of this food item.,I think of Your Name when thinking of this food item.,I would pair green tea with this food item.,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,1,1
+600915,7,20,Kung Fu Panda,Water,Sushi,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+525420,3,$8 ,My neighbor Totoro,Ramune,Sushi,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0
+414710,4,$12 CAD,Rush Hour,Water,Sushi,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1
+629985,4,$10 ,The Room,Water,Sushi,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0
+523128,6,20,Fallen Angels,Sake,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0
+727410,Two,$50 ,totoro,water,Sushi,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+616457,2,20,isle of dogs,sake,Sushi,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0
+206487,Three,Ten dollar,Japanese movie,Coke,Sushi,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+68949,Around 4,$7-$12 depending on the size,My Neighbor Totoro,"Water, Tea or Lemonade",Sushi,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+419835,6,14,Big Hero 6,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+745732,"3 to 5 seaweed, rice, meat, cucumber or carrot or avocado.",20 to 35 dollars.,Shin-chan the Movie: Chounouryoku Daikessen - Tobe Tobe Temakizushi).,coca cola,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+543739,2,10,Monsters Inc,Water,Sushi,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+410380,3,15,John Wick,Sake,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,0
+385307,2 to 3,15,John Wick ,soup ,Sushi,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0
+634566,5,20,Shanghai Noon,Sake ,Sushi,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,1,0,0,0
+625818,4 to 8 ingredients,15$,Big Hero 6,Water,Sushi,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+631164,"Rice, fish, wasabi, seaweed, salt, soy sauce.
+
+atleast 6",$5-$10,Spirited away,Water,Sushi,0,0,0,1,0,1,0,0,0,1,0,1,1,1,1,0,0,0,1,0
+603130,4,$12 ,Finding Nemo,Yakult,Sushi,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+229211,I would expect this food item to contain about 3 to 7 ingredients,$16 ,One Piece,Miso soup,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,0
+626849,5,$6.00 ,Turning Red,Water,Sushi,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,1,0,1,0,0
+634650,6,$15 ,Madagascar,Water,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+632125,4,$10 ,Turning Red,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0
+626812,2-3,20,no movie,water,Sushi,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0
+631109,12-15? Not sure to be honest. ,$13-15,We Live In Time. In one of the scenes the chef is making sushi (I watched it recently),Water or maybe juice,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+716766,"2-6, mostly includes rice, nori, fish or other proteins, vegetables, and optional garnishes like sesa,e seeds or sauces",10 for 10,Kodoku No Gurume,barley tea,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+494103,7,9 dollars,Blade runner,Coca cola,Sushi,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,0
+628102,3-5,$10 ,Fast & Furious: Tokyo Drift,Water,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0
+634683,7-8,dollar each,Lucy,Tea,Sushi,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0
+517774,2,12,Spirited Away,sprite,Sushi,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1
+408898,4,10 dollars,Cars 2,Water,Sushi,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0
+603189,3,10,lost in translation,water,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0
+606857,3,10 CAD,47 Ronin,Iced Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+523080,4,9.99,home alone,water,Sushi,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0
+631014,4,$12 ,The Last Samurai,Coca Cola,Sushi,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+503957,3,$18 ,John Wick,Saporo,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0
+524890,6,$25 ,Home Alone 2,Sake,Sushi,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,0
+717411,5,$8 ,Japanese movie,iced tea,Sushi,0,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1
+525311,5,$10 ,Godzilla,Tea,Sushi,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0
+630967,7,25,Hunger,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+604969,6,$15 ,Cars 2,Sparkling water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0
+524480,7,$15 ,Spirited Away,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+630121,around 10 ingredients,around $15,Mulan,water,Sushi,0,0,1,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,0
+629615,regular california roll: 5,"1 roll: =1.5 dollars
+
+8 pieces: 12 dollars",The Breakfast Club,Jasmine tea,Sushi,0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,1,0,0,1,0
+634977,4,7,Mulan,water,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0
+630823,7,14,The Intern,Coke,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0
+632228,20,12 to 15 dollars,Karate Kid,Water,Sushi,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0
+504548,3,$10 ,The Meg (2018),Soy Sauce,Sushi,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,1,0
+522477,Around 5 ingredients.,"Around $10, but if it comes with high standard fish, I would say $20 or more.",Madagascar,Nestea,Sushi,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,0,1,0,0
+523461,5,$6 ,Rush Hour 2,Sake,Sushi,0,0,0,1,0,0,0,1,0,1,1,0,1,0,1,1,0,0,0,0
+312640,"3-44 Ingredients, fish (or any filling),rice, seaweed, and optional topping",16,Rush Hour series ,Yuzu the alcoholic drink,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0
+854745,3,$12 ,Doraemon,Tea,Sushi,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0
+711854,"Salmon, shrimp, seaweed, rice, cucumber, wasabi, soy sauce, ginger
+
+8 ingredients","One box, $10",Kill Bill,Water,Sushi,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,0
+739254,Around 5 ingredients,10 dollars,Ultraman: Rising,Water,Sushi,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0
+621555,"Depends on if it's sashimi or sushi rolls or anything else. Sushi rolls, 4+, sashimi, 2-3. Once again, depends on what you're getting.","If it's sashimi, 20$ ish, give or take a few. If it's just a roll, a serving of 6 rolls is about 8-10 dollars for an average roll.",None.,Tea and water.,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+602482,3-4,12-18 dollars,21 Jump Street,Water,Sushi,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0
+630416,Around 8?,$9 ,"Ratatouille, because sushi needs to be sliced and they slice food in Ratatouille.",Water ,Sushi,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,0
+505458,2,3,Japanese,Tea,Sushi,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0
+296589,"Rice, dried seaweed, and raw fish",Around $5-15,Pearl Harbour,"Water, sake",Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,1,0,1,1
+604826,"6 ingredients
+
+Fake Crab Meat
+
+Cucumbers
+
+Avocado
+
+Seaweed
+
+Sushi Vinegar
+
+Rice",I expect to pay for 15 dollars for one serving of this food item.,I think about the movie Good Time when thinking of this food item.,I will pair this food item with green tea.,Sushi,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1
+387820,dried sea crunchies,25CAD,Who am I (2005?),coca cola,Sushi,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0
+603612,2,25,Finding Nemo,Sake,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0
+712252,5,$7 ,Memoirs of a Geisha,Water,Sushi,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+742226,5-10,20,Howl's Moving Castle,Alcohol,Sushi,0,1,0,0,0,0,0,0,1,1,1,0,1,0,1,1,0,0,1,0
+712771,3,20,Memory of a Geisha,Hot tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+746466,4,13,Your Name,Green Tea,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0
+601737,"rice, vinegar, fish, soy sauce, wasabi. so 5 ingredients.",15 dollars,last samurai,green tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0
+631902,4,$20 ,Shark Tale,Water,Sushi,0,0,0,1,0,1,0,0,0,0,1,0,1,1,1,0,1,1,0,0
+312320,"wasabi
+
+dikon radish
+
+ginger
+
+raw fish or different kinds but mostly salmon & tuna
+
+lettuce
+
+seaweed salad
+
+soy sauce",sushi small order = 6 pieces with meat not tofu = $12,"I think of Ninja movies with I think of sushi, especially Japanese Anime ninja movies","I think of sake, suju and Coke Cola for sushi food item",Sushi,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,1
+519986,4,18,ratatouille,water,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,0
+626771,I would expect this food item to contain between 3 and 5 ingredients.,I would expect to pay between $10-20 CAD for one serving of this food item.,I think of the movie Jiro Dreams of Sushi. It is a movie about  an 85 year old sushi master behind a three Michelin star sushi restaurant and his sons who are set to take over the business.,"I would pair this food item with a green tea or simply just water. The reason I say green tea is because it can be hard to digest, so the tea helps! Often times, restaurants/buffets that serve this food will also make green tea an optional drink!",Sushi,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0
+407257,6,25,Rush Hour,Cocktail,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,0,1,0
+626883,4,$15 ,Howl's Moving Castle,Water,Sushi,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0
+727339,"At least 4:
+
+- rice, vinegar, seaweed, fish",2$ to 4$,City Hunter,Miso soup,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+631448,4 ingredients,Around 5 dollars,Mulan,Tea,Sushi,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,1,1,1,0,0
+634885,5,$8 ,Spirited Away,Tea,Sushi,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,0,0
+619932,5-7,$20 ,Some Ghibli movie,Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0
+601986,4,11.02$,Alita:the warrior,rice tea,Sushi,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+631141,5,$10 ,Monsters Inc.,Jasmine tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+631069,8,$12 ,monsters Inc,Tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+634508,5,$8 ,The karate kid,Soju,Sushi,0,0,0,1,0,0,0,1,0,0,0,1,1,1,1,0,1,0,1,0
+206744,"9
+
+rice, vinegar, seaweed, sauces, 5 fillings",$7 ,John Wick: Chapter 3 - Parabellum,water,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+498213,"at least 2 but I'll say about 3-4 ingredient. if only 1 number, then take 3.","it depends on how big the portion is. let say 8 pieces of salmon roll then I will happy to pay around 7 cad but sushi is usually expensive and 8 piece of sushi won't make me full. if to eat and be happy then 18-20 cad. but since for the other data I only say for not so full, so my final answer is 15.","almost all asian movies, especially Japanese. Not any movie in particular comes in mind.",I would pair it with water to reserve the sushi taste.,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0
+627496,5 ingredients,8.00 dollars,Haikyu,Soju,Sushi,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,0,0,1,0
+629659,3,1$,Oppenheimer ,Sake,Sushi,0,1,0,0,0,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0
+630190,This food could contain anywhere between 2 to 5 ingredients.,$30 ,I don't think of any movies. I think of anime.,Water.,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+401586,5,10,The Spy Next Door,tea,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+629263,5,$10 ,Rush hour,Lemonade,Sushi,0,0,1,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0
+631678,3,$4 ,Into the Spiderverse,Tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+411681,5,$20 ,Godzilla,Water,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0
+518733,4,3 dollars,shang chi,water,Sushi,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,0,1,0,0,0
+630378,6,$10 ,Rush Hour,Iced Tea,Sushi,0,0,1,0,0,0,0,1,0,1,1,0,1,1,0,1,0,0,0,0
+631142,4 Ingredients,$17 per serving,Your Name,Water,Sushi,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0
+519976,"Rice
+Some type of fish",20,Breakfast club (One of the characters gets into an argument with someone else if eating sushi is allowed),Tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+604991,4,25,Monsters Inc.,Water,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,1,0,0,1,0
+522483,5-8,$15-20,Nothing,water or tea,Sushi,0,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,1,0,0,0
+629723,3,$20 ,Heretic,Baijiu,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+387522,3,30,Crayon Shinchan,Green Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0
+613484,5,$6.00 ,Aquaman,Ice tea,Sushi,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0
+388729,arounds 10,15-20 dollar,"It sounds like you're referring to the movie Ratatouille! It’s a Pixar animated film about a rat named Remy who dreams of becoming a great chef despite being a rodent in a profession dominated by humans. The story is set in Paris, and it beautifully blends themes of passion, creativity, and perseverance in the culinary world. Let me know if this is the one you're thinking of!",fruit tea,Sushi,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1
+494373,On average 2-4,6,Bullet train,"Barley tea
+----------",Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+630977,4 ingredients,25 dollars,No movie,Water,Sushi,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,1,0,0
+621982,2,25 dollars,Lost in Translation,coke,Sushi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+605537,2,0.5,Ratatouille,soft drink,Sushi,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+607073,5-6,15-Oct,anime movie,just water,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0
+624443,6,$10 ,Kill Bill,Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+718089,2,$12-$20,Cars 3,Sake,Sushi,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+622727,"At least 4: rice, seaweed, fish, seasonings.",$10 to $12,East Side Sushi,Water or tea,Sushi,0,0,0,0,1,0,0,1,0,0,0,1,1,1,1,0,0,1,1,0
+609617,"3 ingredients: Rice, Nori/Seaweed, Fish(Type of)",12$ would be fair value,Shang Chi: The legend of ten rings,Iced Tea,Sushi,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+526064,5,$1 ,Spirited Away,Water,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0
+609179,5,20,Tokyo Drift,milk,Sushi,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+627638,I would expect it to range from 2 (e.g. salmon nigiri) to 8 (e.g. a complex maki roll) ingredients.,"Assuming a serving means a small box of sushi for one person, around $12-$16.",No movies come to mind.,Tea or water.,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+411117,7,$7.50 ,Monsters Inc.,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0
+634430,4,$2.00 ,Tokyo Drift,Juice,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+631711,"4: Rice, nori, vinegar, vegetables",$1 ,Turning Red,Root beer,Sushi,0,0,1,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,1,0
+606010,max 2 with fancy ones having more.,1-2$ USD,chandni chowk to china,green tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0
+631436,"It depends on the sushi, but classic sushi has 3 ingredients.","For 4pc's of classic sushi, you should be setback about $5. ","I think of the movie Jaws because sushi is fish and Jaws is a movie about shark, which is a fish. ",I would pair classic water with sushi to bring out its umami flavour. ,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0
+633712,4,10,Isle of Dogs,Water,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+609556,9,14 dollar,Fast and Furious Tokyo Drift,Ocha,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0
+520090,2,$12 ,Spirited Away,Green Tea,Sushi,0,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+602234,"7 total. Ingredients include rice, soy sauce, wasabi, nori, and 3 additional variety of filling. Filling can include avocado, cucumber, meat, etc.","For one serving of sushi, I expect to pay like $16. It's so good yet so expensive :(","When eating sushi, I think of the movie ""Shrek 2"".",I would pair bubble tea with sushi. Mmmmm... boba...,Sushi,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,0,1,1,0
+741592,3,1.49,Your Name,Water,Sushi,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0
+628547,5,$20 ,Monsters Inc,Tea,Sushi,0,0,0,0,1,1,0,0,0,0,1,1,1,0,1,1,0,1,1,0
+501513,2,10,Midnight dinner,Soju,Sushi,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,0,0,0
+630929,8,$5 ,spirited away,tea,Sushi,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0
+617379,4,$10 ,Kung fu panda,Mango juice,Sushi,0,0,0,0,1,1,0,0,0,0,0,1,0,1,1,0,1,1,0,0
+617310,6,10.99,Karate Kid,Water,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+495424,3,$15 ,Kill Bill,Sake,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+622787,3,13,madagascar,tea,Sushi,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1,1,0,1,0
+631716,6,$40 ,Penguins of Madagascar,Green Tea,Sushi,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0
+741658,"rice, fish or shrimp, vegetables",20 dollar for many sushi,"No, But I think Japan.",soup ?,Sushi,0,0,1,0,0,1,0,0,0,1,0,1,0,1,0,1,1,1,0,1
+620745,10,$10 ,Monsters Inc.,Water,Sushi,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0
+611932,4,$12 ,John Wick 3,Water,Sushi,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0
+635602,4-5,$25-40,Monsters Inc.,water,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0
+619892,8,$15.00 ,"Monsters, Inc.",Pepsi,Sushi,0,0,0,0,1,0,0,1,0,0,1,0,1,0,1,1,1,1,1,0
+529289,4,$25 ,Kill Bill,Iced Tea,Sushi,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,0
+630738,10,13,none,miso soup,Sushi,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0
+524766,2,10,Idk,Water or soup,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0
+522148,3-5,10,pokemon,rice wine,Sushi,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0
+601547,at least 2,20 per serving,no movie came up to my mind,tea,Sushi,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+631046,3,30,Tokyo Drift,Tea,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0
+66222,7,20,Tokyo drift,Zero sugar coca cola,Sushi,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+603182,20,10 dollars,Jiro Dreams of Sushi,Juice,Sushi,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+632117,5,"One serving of sushi would probably mean one piece of sushi, so $1 or less.",Ratatouille.,Water.,Sushi,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,1,0,0,1,0
+630209,About 4,$11 ,Kiki’s Delivery Service,Ginger tea,Sushi,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0
+413395,3-5,5-Mar,Romantic Movies,Soup,Sushi,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0
+386750,4 to 5,About 12 to 15 dollars,One Piece Film Gold,Water,Sushi,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+617178,"It has a minimum of two ingredients, and on average I would say it has five ingredients.",10 dollars,I think of the anime Food Wars,Nothing in particular– probably just water,Sushi,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0
+630128,3 or a finite amount more,$1 or less (for a single roll),John Wick 3,Any tea,Sushi,1,0,0,0,0,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0
+628736,This food item typically contains 3 to 5 ingredients. Seaweed is almost always one of the ingredients.,I would expect to pay at most 100 yen per individual piece.,"I think of Cars 2 when thinking of this food item. This is because of the scene where Tow Mater mistakes wasabi, a popular topping for this food item, for pistachio ice cream, with comical results.",Milk. Especially if eaten with wasabi to put out any flames from the spiciness.,Sushi,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0
