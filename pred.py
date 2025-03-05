@@ -368,9 +368,11 @@ def predict_all(filename):
 	"""
 	Make predictions for the data in filename
 	"""
-	data = None
+	df = pd.read_csv(filename)
+	df = preprocess(df, output=False)
+
 	predictions = []
-	for test_example in data:
+	for test_example in df:
 		# obtain a prediction for this test example
 		pred = predict(test_example)
 		predictions.append(pred)
