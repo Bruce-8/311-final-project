@@ -203,10 +203,12 @@ def q4_extract_data(input):
 
 def q2_preprocess(df, col):
 	df[col] = df[col].apply(q2_extract_data)
+	df = df.rename(columns={col: "ingredient_count"})
 	return df
 
 def q4_preprocess(df, col):
 	df[col] = df[col].apply(q4_extract_data)
+	df = df.rename(columns={col: "expected_price"})
 	return df
 
 def remove_words(words: list[str], ting: str):
