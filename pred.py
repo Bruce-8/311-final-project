@@ -19,7 +19,7 @@ import random
 import re
 
 # numpy and pandas are also permitted
-import numpy
+import numpy as np
 import pandas as pd
 
 def q1_q8_preprocess(df, col):
@@ -211,16 +211,16 @@ def q4_preprocess(df, col):
 	df = df.rename(columns={col: "expected_price"})
 	return df
 
-def remove_words(words: list[str], ting: str):
-		for word in words:
-			ting = re.sub(r'\b' + word + r'\b', '', ting)
-		return ting
+def q5_remove_words(words: list[str], ting: str):
+	for word in words:
+		ting = re.sub(r'\b' + word + r'\b', '', ting)
+	return ting
 
-def process_string(value: str) -> str:
+def q5_process_string(value: str) -> str:
 	# Convert the value to lowercase
 	value = str(value).lower()
 	# Remove all generic words
-	value = remove_words(['the', 'an', 'and', 'of', 'to'], value)
+	value = q5_remove_words(['the', 'an', 'and', 'of', 'to'], value)
 	# Remove all s after a word
 	value = re.sub(r's\b', '', value)
 	# Remove all characters that are not consonants
@@ -230,40 +230,7 @@ def process_string(value: str) -> str:
 		value = 'nmv'
 	return value
 
-def get_big_buckets(df: pd.DataFrame) -> dict:
-	tings = {}
-	specifics = {}
-
-	def add_to_tings(tingz: dict, ting: str, original: str = None):
-		if original:
-			if ting in specifics:
-				specifics[ting].append(original)
-			else:
-				specifics[ting] = [original]
-
-		if ting in tingz:
-			tingz[ting] += 1
-		else:
-			tingz[ting] = 1
-
-	def remove_words(words: list[str], ting: str):
-		for word in words:
-			ting = re.sub(r'\b' + word + r'\b', '', ting)
-		return ting
-
-	# Loop through the values of the second column and print each one
-	for value in df.iloc[:, 1]:
-		add_to_tings(tings, process_string(value), value)
-
-	bigtings = {}
-	bigenough = 15
-	for ting in tings:
-		if tings[ting] > bigenough:
-			bigtings[ting] = tings[ting]
-	
-	return bigtings
-
-def q_5_preprocess(df: pd.DataFrame) -> pd.DataFrame:
+def q5_preprocess(df: pd.DataFrame, col: str) -> pd.DataFrame:
 	# Drop the columns that are not needed
 	buckets = {
 		'cldywthchncmtbll',
@@ -282,14 +249,19 @@ def q_5_preprocess(df: pd.DataFrame) -> pd.DataFrame:
 		'mnstrnc',
 	}
 	
-	def bucket_map(value: str) -> str:
-		value = process_string(value)
-		if value in buckets:
-			return value
-		return ''
+	# def bucket_map(value: str) -> str:
+	# 	value = q5_process_string(value)
+	# 	if value in buckets:
+	# 		return value
+	# 	return ''
 
-	df['big_bucket'] = df.iloc[:, 1].map(bucket_map)
-	df = df.drop('Q5: What movie do you think of when thinking of this food item?', axis=1)
+	# Create a new DataFrame with columns for each bucket
+	for bucket in buckets:
+		df[f'movie_{bucket}'] = df[col].apply(lambda x: 1 if q5_process_string(x) == bucket else 0)
+
+	# Drop the original column
+	df = df.drop(col, axis=1)
+
 	return df
 
 class DrinkClassifier:
@@ -345,21 +317,75 @@ def q6_preprocess(df, col):
 	df = df.drop(col, axis=1)
 	return df
 
-def preprocess(filename, output=False):
+def preprocess(filename, output=False) -> tuple[np.array, np.array, np.array]:
+	# Open the csv file into a pandas dataframe
 	df = pd.read_csv(filename)
+
+	# Preprocess the data from each question
 	df = q1_q8_preprocess(df, "Q1: From a scale 1 to 5, how complex is it to make this food? (Where 1 is the most simple, and 5 is the most complex)")
 	df = q1_q8_preprocess(df, "Q8: How much hot sauce would you add to this food item?")
 	df = q3_q7_preprocess(df, "Q3: In what setting would you expect this food to be served? Please check all that apply")
 	df = q3_q7_preprocess(df, "Q7: When you think about this food item, who does it remind you of?")
 	df = q2_preprocess(df, "Q2: How many ingredients would you expect this food item to contain?")
 	df = q4_preprocess(df, 'Q4: How much would you expect to pay for one serving of this food item?')
-	df = q_5_preprocess(df)
+	df = q5_preprocess(df, 'Q5: What movie do you think of when thinking of this food item?')
 	df = q6_preprocess(df, 'Q6: What drink would you pair with this food item?')
 
+	# Output the corresponding csv if wanted
 	if output:
 		df.to_csv('output.csv', index=False)
-	
-	return df
+
+	# Separate the dataframe into three based on the 'Label' column
+	df_pizza = df[df['Label'] == 'Pizza']
+	df_sushi = df[df['Label'] == 'Sushi']
+	df_shawarma = df[df['Label'] == 'Shawarma']
+
+	# Drop the 'Label' column from each dataframe
+	df_pizza = df_pizza.drop(columns=['Label', 'id'])
+	df_sushi = df_sushi.drop(columns=['Label', 'id'])
+	df_shawarma = df_shawarma.drop(columns=['Label', 'id'])
+
+	# Convert each dataframe to a numpy array
+	np_pizza = df_pizza.to_numpy()
+	np_sushi = df_sushi.to_numpy()
+	np_shawarma = df_shawarma.to_numpy()
+
+	return np_pizza, np_sushi, np_shawarma
+
+def split_dataset(pizza: np.array, sushi: np.array, shawarma: np.array) -> tuple[np.array, np.array, np.array]:
+	# Add an extra column to each category with the corresponding label
+	pizza = np.column_stack((pizza, np.full(len(pizza), 0)))
+	sushi = np.column_stack((sushi, np.full(len(sushi), 1)))
+	shawarma = np.column_stack((shawarma, np.full(len(shawarma), 2)))
+
+	# Shuffle each category
+	np.random.shuffle(pizza)
+	np.random.shuffle(sushi)
+	np.random.shuffle(shawarma)
+
+	# Split each category into training, validation, and test subsets
+	def split_data(data):
+		train, validate, test = np.split(data, [int(.6*len(data)), int(.8*len(data))])
+		return train, validate, test
+
+	pizza_train, pizza_validate, pizza_test = split_data(pizza)
+	sushi_train, sushi_validate, sushi_test = split_data(sushi)
+	shawarma_train, shawarma_validate, shawarma_test = split_data(shawarma)
+
+	# Combine each of the training subsets, validation subsets, and test subsets
+	train_combined = np.concatenate((pizza_train, sushi_train, shawarma_train))
+	validate_combined = np.concatenate((pizza_validate, sushi_validate, shawarma_validate))
+	test_combined = np.concatenate((pizza_test, sushi_test, shawarma_test))
+
+	# Shuffle each of the combined sets
+	np.random.shuffle(train_combined)
+	np.random.shuffle(validate_combined)
+	np.random.shuffle(test_combined)
+
+	return train_combined, validate_combined, test_combined
+
+def split_X_t(data_subset: np.array) -> tuple[np.array, np.array]:
+	return data_subset[:, :-1], data_subset[:, -1].reshape(-1, 1)
 
 def predict(x):
 	pass
@@ -368,8 +394,24 @@ def predict_all(filename):
 	"""
 	Make predictions for the data in filename
 	"""
-	df = pd.read_csv(filename)
-	df = preprocess(df, output=False)
+	pizza, sushi, shawarma = preprocess(filename, output=False)
+
+	train_set, validation_set, test_set = split_dataset(pizza, sushi, shawarma)
+
+	train_X, train_t = split_X_t(train_set)
+	validation_X, validation_t = split_X_t(validation_set)
+	test_X, test_t = split_X_t(test_set)
+
+	predictions = []
+	for test_example in test_combined:
+		# obtain a prediction for this test example
+		pred = predict(test_example)
+		predictions.append(pred)
+
+	return predictions
+
+if __name__ == "__main__":
+	pizza, sushi, shawarma = preprocess("cleaned_data_combined_modified.csv", output=True)
 
 	predictions = []
 	for test_example in df:
@@ -380,4 +422,4 @@ def predict_all(filename):
 	return predictions
 
 if __name__ == "__main__":
-	preprocess("cleaned_data_combined_modified.csv", output=True)
+	pizza, sushi, shawarma = preprocess("cleaned_data_combined_modified.csv", output=True)
